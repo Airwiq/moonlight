@@ -1,0 +1,25 @@
+{
+  "name": "xtm-app",
+  "version": "0.1.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron . --allow-file-access-from-files",
+    "postinstall": "install-app-deps"
+  },
+  "author": "FE",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^3.0.3",
+    "electron-builder": "^20.34.0",
+    "electron-packager": "^12.2.0",
+    "electron-rebuild": "^1.8.2",
+    "gyp": "^0.5.0",
+    "node-gyp": "^3.8.0",
+    "python": "0.0.4",
+    "windows-build-tools": "^5.0.0"
+  },
+  "dependencies": {
+    "sqlite3": "^4.0.4"
+  },
+  "description": ""
+}

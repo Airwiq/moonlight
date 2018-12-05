@@ -1,0 +1,3843 @@
+
+Grinning Face
+U+1F600
+
+Grinning Face with Smiling Eyes
+U+1F601
+
+Face with Tears of Joy
+U+1F602
+
+Rolling On The Floor Laughing
+U+1F923
+
+Smiling Face with Open Mouth
+U+1F603
+
+Smiling Face with Open Mouth and Smiling Eyes
+U+1F604
+
+Smiling Face with Open Mouth and Cold Sweat
+U+1F605
+
+Smiling Face with Open Mouth and Closed Eyes
+U+1F606
+
+Winking Face
+U+1F609
+
+Smiling Face with Smiling Eyes
+U+1F60A
+
+Face Savouring Delicious Food
+U+1F60B
+
+Smiling Face with Sunglasses
+U+1F60E
+
+Smiling Face with Heart-Eyes
+U+1F60D
+
+Face Blowing a Kiss
+U+1F618
+
+Kissing Face
+U+1F617
+
+Kissing Face with Smiling Eyes
+U+1F619
+
+Kissing Face with Closed Eyes
+U+1F61A
+
+Smiling Face
+U+263A
+
+Slightly Smiling Face
+U+1F642
+
+Hugging Face
+U+1F917
+
+Star-Struck
+U+1F929
+
+Thinking Face
+U+1F914
+
+Face with Raised Eyebrow
+U+1F928
+
+Neutral Face
+U+1F610
+
+Expressionless Face
+U+1F611
+
+Face Without Mouth
+U+1F636
+
+Face with Rolling Eyes
+U+1F644
+
+Smirking Face
+U+1F60F
+
+Persevering Face
+U+1F623
+
+Disappointed But Relieved Face
+U+1F625
+
+Face with Open Mouth
+U+1F62E
+
+Zipper-Mouth Face
+U+1F910
+
+Hushed Face
+U+1F62F
+
+Sleepy Face
+U+1F62A
+
+Tired Face
+U+1F62B
+
+Sleeping Face
+U+1F634
+
+Relieved Face
+U+1F60C
+
+Face with Stuck-Out Tongue
+U+1F61B
+
+Face with Stuck-Out Tongue and Winking Eye
+U+1F61C
+
+Face with Stuck-Out Tongue and Closed Eyes
+U+1F61D
+
+Drooling Face
+U+1F924
+
+Unamused Face
+U+1F612
+
+Face with Cold Sweat
+U+1F613
+
+Pensive Face
+U+1F614
+
+Confused Face
+U+1F615
+
+Upside-Down Face
+U+1F643
+
+Money-Mouth Face
+U+1F911
+
+Astonished Face
+U+1F632
+
+Frowning Face
+U+2639
+
+Slightly Frowning Face
+U+1F641
+
+Confounded Face
+U+1F616
+
+Disappointed Face
+U+1F61E
+
+Worried Face
+U+1F61F
+
+Face with Steam from Nose
+U+1F624
+
+Crying Face
+U+1F622
+
+Loudly Crying Face
+U+1F62D
+
+Frowning Face with Open Mouth
+U+1F626
+
+Anguished Face
+U+1F627
+
+Fearful Face
+U+1F628
+
+Weary Face
+U+1F629
+
+Exploding Head
+U+1F92F
+
+Grimacing Face
+U+1F62C
+
+Face with Open Mouth and Cold Sweat
+U+1F630
+
+Face Screaming in Fear
+U+1F631
+
+Flushed Face
+U+1F633
+
+Crazy Face
+U+1F92A
+
+Dizzy Face
+U+1F635
+
+Pouting Face
+U+1F621
+
+Angry Face
+U+1F620
+
+Face with Symbols Over Mouth
+U+1F92C
+
+Face with Medical Mask
+U+1F637
+
+Face with Thermometer
+U+1F912
+
+Face with Head-Bandage
+U+1F915
+
+Nauseated Face
+U+1F922
+
+Face Vomiting
+U+1F92E
+
+Sneezing Face
+U+1F927
+
+Smiling Face with Halo
+U+1F607
+
+Cowboy Hat Face
+U+1F920
+
+Clown Face
+U+1F921
+
+Lying Face
+U+1F925
+
+Shushing Face
+U+1F92B
+
+Face with Hand Over Mouth
+U+1F92D
+
+Face with Monocle
+U+1F9D0
+
+Nerd Face
+U+1F913
+
+Smiling Face with Horns
+U+1F608
+
+Angry Face with Horns
+U+1F47F
+
+Ogre
+U+1F479
+
+Goblin
+U+1F47A
+
+Skull
+U+1F480
+
+Skull and Crossbones
+U+2620
+
+Ghost
+U+1F47B
+
+Alien
+U+1F47D
+
+Alien Monster
+U+1F47E
+
+Robot Face
+U+1F916
+
+Pile of Poo
+U+1F4A9
+
+Smiling Cat Face with Open Mouth
+U+1F63A
+
+Grinning Cat Face with Smiling Eyes
+U+1F638
+
+Cat Face with Tears of Joy
+U+1F639
+
+Smiling Cat Face with Heart-Eyes
+U+1F63B
+
+Cat Face with Wry Smile
+U+1F63C
+
+Kissing Cat Face with Closed Eyes
+U+1F63D
+
+Weary Cat Face
+U+1F640
+
+Crying Cat Face
+U+1F63F
+
+Pouting Cat Face
+U+1F63E
+
+See-No-Evil Monkey
+U+1F648
+
+Hear-No-Evil Monkey
+U+1F649
+
+Speak-No-Evil Monkey
+U+1F64A
+
+Baby
+U+1F476
+
+Baby
+U+1F476 U+1F3FB
+
+Baby
+U+1F476 U+1F3FC
+
+Baby
+U+1F476 U+1F3FD
+
+Baby
+U+1F476 U+1F3FE
+
+Baby
+U+1F476 U+1F3FF
+
+Child
+U+1F9D2
+
+Child
+U+1F9D2 U+1F3FB
+
+Child
+U+1F9D2 U+1F3FC
+
+Child
+U+1F9D2 U+1F3FD
+
+Child
+U+1F9D2 U+1F3FE
+
+Child
+U+1F9D2 U+1F3FF
+
+Boy
+U+1F466
+
+Boy
+U+1F466 U+1F3FB
+
+Boy
+U+1F466 U+1F3FC
+
+Boy
+U+1F466 U+1F3FD
+
+Boy
+U+1F466 U+1F3FE
+
+Boy
+U+1F466 U+1F3FF
+
+Girl
+U+1F467
+
+Girl
+U+1F467 U+1F3FB
+
+Girl
+U+1F467 U+1F3FC
+
+Girl
+U+1F467 U+1F3FD
+
+Girl
+U+1F467 U+1F3FE
+
+Girl
+U+1F467 U+1F3FF
+
+Adult
+U+1F9D1
+
+Adult
+U+1F9D1 U+1F3FB
+
+Adult
+U+1F9D1 U+1F3FC
+
+Adult
+U+1F9D1 U+1F3FD
+
+Adult
+U+1F9D1 U+1F3FE
+
+Adult
+U+1F9D1 U+1F3FF
+
+Man
+U+1F468
+
+Man
+U+1F468 U+1F3FB
+
+Man
+U+1F468 U+1F3FC
+
+Man
+U+1F468 U+1F3FD
+
+Man
+U+1F468 U+1F3FE
+
+Man
+U+1F468 U+1F3FF
+
+Woman
+U+1F469
+
+Woman
+U+1F469 U+1F3FB
+
+Woman
+U+1F469 U+1F3FC
+
+Woman
+U+1F469 U+1F3FD
+
+Woman
+U+1F469 U+1F3FE
+
+Woman
+U+1F469 U+1F3FF
+
+Older Adult
+U+1F9D3
+
+Older Adult
+U+1F9D3 U+1F3FB
+
+Older Adult
+U+1F9D3 U+1F3FC
+
+Older Adult
+U+1F9D3 U+1F3FD
+
+Older Adult
+U+1F9D3 U+1F3FE
+
+Older Adult
+U+1F9D3 U+1F3FF
+
+Old Man
+U+1F474
+
+Old Man
+U+1F474 U+1F3FB
+
+Old Man
+U+1F474 U+1F3FC
+
+Old Man
+U+1F474 U+1F3FD
+
+Old Man
+U+1F474 U+1F3FE
+
+Old Man
+U+1F474 U+1F3FF
+
+Old Woman
+U+1F475
+
+Old Woman
+U+1F475 U+1F3FB
+
+Old Woman
+U+1F475 U+1F3FC
+
+Old Woman
+U+1F475 U+1F3FD
+
+Old Woman
+U+1F475 U+1F3FE
+
+Old Woman
+U+1F475 U+1F3FF
+
+Health Worker
+U+1F468 U+200D U+2695
+
+Health Worker
+U+1F468 U+1F3FB U+200D U+2695
+
+Health Worker
+U+1F468 U+1F3FC U+200D U+2695
+
+Health Worker
+U+1F468 U+1F3FD U+200D U+2695
+
+Health Worker
+U+1F468 U+1F3FE U+200D U+2695
+
+Health Worker
+U+1F468 U+1F3FF U+200D U+2695
+
+Health Worker
+U+1F469 U+200D U+2695
+
+Health Worker
+U+1F469 U+1F3FB U+200D U+2695
+
+Health Worker
+U+1F469 U+1F3FC U+200D U+2695
+
+Health Worker
+U+1F469 U+1F3FD U+200D U+2695
+
+Health Worker
+U+1F469 U+1F3FE U+200D U+2695
+
+Health Worker
+U+1F469 U+1F3FF U+200D U+2695
+
+Student
+U+1F468 U+200D U+1F393
+
+Student
+U+1F468 U+1F3FB U+200D U+1F393
+
+Student
+U+1F468 U+1F3FC U+200D U+1F393
+
+Student
+U+1F468 U+1F3FD U+200D U+1F393
+
+Student
+U+1F468 U+1F3FE U+200D U+1F393
+
+Student
+U+1F468 U+1F3FF U+200D U+1F393
+
+Student
+U+1F469 U+200D U+1F393
+
+Student
+U+1F469 U+1F3FB U+200D U+1F393
+
+Student
+U+1F469 U+1F3FC U+200D U+1F393
+
+Student
+U+1F469 U+1F3FD U+200D U+1F393
+
+Student
+U+1F469 U+1F3FE U+200D U+1F393
+
+Student
+U+1F469 U+1F3FF U+200D U+1F393
+
+Teacher
+U+1F468 U+200D U+1F3EB
+
+Teacher
+U+1F468 U+1F3FB U+200D U+1F3EB
+
+Teacher
+U+1F468 U+1F3FC U+200D U+1F3EB
+
+Teacher
+U+1F468 U+1F3FD U+200D U+1F3EB
+
+Teacher
+U+1F468 U+1F3FE U+200D U+1F3EB
+
+Teacher
+U+1F468 U+1F3FF U+200D U+1F3EB
+
+Teacher
+U+1F469 U+200D U+1F3EB
+
+Teacher
+U+1F469 U+1F3FB U+200D U+1F3EB
+
+Teacher
+U+1F469 U+1F3FC U+200D U+1F3EB
+
+Teacher
+U+1F469 U+1F3FD U+200D U+1F3EB
+
+Teacher
+U+1F469 U+1F3FE U+200D U+1F3EB
+
+Teacher
+U+1F469 U+1F3FF U+200D U+1F3EB
+
+Judge
+U+1F468 U+200D U+2696
+
+Judge
+U+1F468 U+1F3FB U+200D U+2696
+
+Judge
+U+1F468 U+1F3FC U+200D U+2696
+
+Judge
+U+1F468 U+1F3FD U+200D U+2696
+
+Judge
+U+1F468 U+1F3FE U+200D U+2696
+
+Judge
+U+1F468 U+1F3FF U+200D U+2696
+
+Judge
+U+1F469 U+200D U+2696
+
+Judge
+U+1F469 U+1F3FB U+200D U+2696
+
+Judge
+U+1F469 U+1F3FC U+200D U+2696
+
+Judge
+U+1F469 U+1F3FD U+200D U+2696
+
+Judge
+U+1F469 U+1F3FE U+200D U+2696
+
+Judge
+U+1F469 U+1F3FF U+200D U+2696
+
+Farmer
+U+1F468 U+200D U+1F33E
+
+Farmer
+U+1F468 U+1F3FB U+200D U+1F33E
+
+Farmer
+U+1F468 U+1F3FC U+200D U+1F33E
+
+Farmer
+U+1F468 U+1F3FD U+200D U+1F33E
+
+Farmer
+U+1F468 U+1F3FE U+200D U+1F33E
+
+Farmer
+U+1F468 U+1F3FF U+200D U+1F33E
+
+Farmer
+U+1F469 U+200D U+1F33E
+
+Farmer
+U+1F469 U+1F3FB U+200D U+1F33E
+
+Farmer
+U+1F469 U+1F3FC U+200D U+1F33E
+
+Farmer
+U+1F469 U+1F3FD U+200D U+1F33E
+
+Farmer
+U+1F469 U+1F3FE U+200D U+1F33E
+
+Farmer
+U+1F469 U+1F3FF U+200D U+1F33E
+
+Cook
+U+1F468 U+200D U+1F373
+
+Cook
+U+1F468 U+1F3FB U+200D U+1F373
+
+Cook
+U+1F468 U+1F3FC U+200D U+1F373
+
+Cook
+U+1F468 U+1F3FD U+200D U+1F373
+
+Cook
+U+1F468 U+1F3FE U+200D U+1F373
+
+Cook
+U+1F468 U+1F3FF U+200D U+1F373
+
+Cook
+U+1F469 U+200D U+1F373
+
+Cook
+U+1F469 U+1F3FB U+200D U+1F373
+
+Cook
+U+1F469 U+1F3FC U+200D U+1F373
+
+Cook
+U+1F469 U+1F3FD U+200D U+1F373
+
+Cook
+U+1F469 U+1F3FE U+200D U+1F373
+
+Cook
+U+1F469 U+1F3FF U+200D U+1F373
+
+Mechanic
+U+1F468 U+200D U+1F527
+
+Mechanic
+U+1F468 U+1F3FB U+200D U+1F527
+
+Mechanic
+U+1F468 U+1F3FC U+200D U+1F527
+
+Mechanic
+U+1F468 U+1F3FD U+200D U+1F527
+
+Mechanic
+U+1F468 U+1F3FE U+200D U+1F527
+
+Mechanic
+U+1F468 U+1F3FF U+200D U+1F527
+
+Mechanic
+U+1F469 U+200D U+1F527
+
+Mechanic
+U+1F469 U+1F3FB U+200D U+1F527
+
+Mechanic
+U+1F469 U+1F3FC U+200D U+1F527
+
+Mechanic
+U+1F469 U+1F3FD U+200D U+1F527
+
+Mechanic
+U+1F469 U+1F3FE U+200D U+1F527
+
+Mechanic
+U+1F469 U+1F3FF U+200D U+1F527
+
+Factory Worker
+U+1F468 U+200D U+1F3ED
+
+Factory Worker
+U+1F468 U+1F3FB U+200D U+1F3ED
+
+Factory Worker
+U+1F468 U+1F3FC U+200D U+1F3ED
+
+Factory Worker
+U+1F468 U+1F3FD U+200D U+1F3ED
+
+Factory Worker
+U+1F468 U+1F3FE U+200D U+1F3ED
+
+Factory Worker
+U+1F468 U+1F3FF U+200D U+1F3ED
+
+Factory Worker
+U+1F469 U+200D U+1F3ED
+
+Factory Worker
+U+1F469 U+1F3FB U+200D U+1F3ED
+
+Factory Worker
+U+1F469 U+1F3FC U+200D U+1F3ED
+
+Factory Worker
+U+1F469 U+1F3FD U+200D U+1F3ED
+
+Factory Worker
+U+1F469 U+1F3FE U+200D U+1F3ED
+
+Factory Worker
+U+1F469 U+1F3FF U+200D U+1F3ED
+
+Office Worker
+U+1F468 U+200D U+1F4BC
+
+Office Worker
+U+1F468 U+1F3FB U+200D U+1F4BC
+
+Office Worker
+U+1F468 U+1F3FC U+200D U+1F4BC
+
+Office Worker
+U+1F468 U+1F3FD U+200D U+1F4BC
+
+Office Worker
+U+1F468 U+1F3FE U+200D U+1F4BC
+
+Office Worker
+U+1F468 U+1F3FF U+200D U+1F4BC
+
+Office Worker
+U+1F469 U+200D U+1F4BC
+
+Office Worker
+U+1F469 U+1F3FB U+200D U+1F4BC
+
+Office Worker
+U+1F469 U+1F3FC U+200D U+1F4BC
+
+Office Worker
+U+1F469 U+1F3FD U+200D U+1F4BC
+
+Office Worker
+U+1F469 U+1F3FE U+200D U+1F4BC
+
+Office Worker
+U+1F469 U+1F3FF U+200D U+1F4BC
+
+Scientist
+U+1F468 U+200D U+1F52C
+
+Scientist
+U+1F468 U+1F3FB U+200D U+1F52C
+
+Scientist
+U+1F468 U+1F3FC U+200D U+1F52C
+
+Scientist
+U+1F468 U+1F3FD U+200D U+1F52C
+
+Scientist
+U+1F468 U+1F3FE U+200D U+1F52C
+
+Scientist
+U+1F468 U+1F3FF U+200D U+1F52C
+
+Scientist
+U+1F469 U+200D U+1F52C
+
+Scientist
+U+1F469 U+1F3FB U+200D U+1F52C
+
+Scientist
+U+1F469 U+1F3FC U+200D U+1F52C
+
+Scientist
+U+1F469 U+1F3FD U+200D U+1F52C
+
+Scientist
+U+1F469 U+1F3FE U+200D U+1F52C
+
+Scientist
+U+1F469 U+1F3FF U+200D U+1F52C
+
+Technologist
+U+1F468 U+200D U+1F4BB
+
+Technologist
+U+1F468 U+1F3FB U+200D U+1F4BB
+
+Technologist
+U+1F468 U+1F3FC U+200D U+1F4BB
+
+Technologist
+U+1F468 U+1F3FD U+200D U+1F4BB
+
+Technologist
+U+1F468 U+1F3FE U+200D U+1F4BB
+
+Technologist
+U+1F468 U+1F3FF U+200D U+1F4BB
+
+Technologist
+U+1F469 U+200D U+1F4BB
+
+Technologist
+U+1F469 U+1F3FB U+200D U+1F4BB
+
+Technologist
+U+1F469 U+1F3FC U+200D U+1F4BB
+
+Technologist
+U+1F469 U+1F3FD U+200D U+1F4BB
+
+Technologist
+U+1F469 U+1F3FE U+200D U+1F4BB
+
+Technologist
+U+1F469 U+1F3FF U+200D U+1F4BB
+
+Singer
+U+1F468 U+200D U+1F3A4
+
+Singer
+U+1F468 U+1F3FB U+200D U+1F3A4
+
+Singer
+U+1F468 U+1F3FC U+200D U+1F3A4
+
+Singer
+U+1F468 U+1F3FD U+200D U+1F3A4
+
+Singer
+U+1F468 U+1F3FE U+200D U+1F3A4
+
+Singer
+U+1F468 U+1F3FF U+200D U+1F3A4
+
+Singer
+U+1F469 U+200D U+1F3A4
+
+Singer
+U+1F469 U+1F3FB U+200D U+1F3A4
+
+Singer
+U+1F469 U+1F3FC U+200D U+1F3A4
+
+Singer
+U+1F469 U+1F3FD U+200D U+1F3A4
+
+Singer
+U+1F469 U+1F3FE U+200D U+1F3A4
+
+Singer
+U+1F469 U+1F3FF U+200D U+1F3A4
+
+Artist
+U+1F468 U+200D U+1F3A8
+
+Artist
+U+1F468 U+1F3FB U+200D U+1F3A8
+
+Artist
+U+1F468 U+1F3FC U+200D U+1F3A8
+
+Artist
+U+1F468 U+1F3FD U+200D U+1F3A8
+
+Artist
+U+1F468 U+1F3FE U+200D U+1F3A8
+
+Artist
+U+1F468 U+1F3FF U+200D U+1F3A8
+
+Artist
+U+1F469 U+200D U+1F3A8
+
+Artist
+U+1F469 U+1F3FB U+200D U+1F3A8
+
+Artist
+U+1F469 U+1F3FC U+200D U+1F3A8
+
+Artist
+U+1F469 U+1F3FD U+200D U+1F3A8
+
+Artist
+U+1F469 U+1F3FE U+200D U+1F3A8
+
+Artist
+U+1F469 U+1F3FF U+200D U+1F3A8
+
+Pilot
+U+1F468 U+200D U+2708
+
+Pilot
+U+1F468 U+1F3FB U+200D U+2708
+
+Pilot
+U+1F468 U+1F3FC U+200D U+2708
+
+Pilot
+U+1F468 U+1F3FD U+200D U+2708
+
+Pilot
+U+1F468 U+1F3FE U+200D U+2708
+
+Pilot
+U+1F468 U+1F3FF U+200D U+2708
+
+Pilot
+U+1F469 U+200D U+2708
+
+Pilot
+U+1F469 U+1F3FB U+200D U+2708
+
+Pilot
+U+1F469 U+1F3FC U+200D U+2708
+
+Pilot
+U+1F469 U+1F3FD U+200D U+2708
+
+Pilot
+U+1F469 U+1F3FE U+200D U+2708
+
+Pilot
+U+1F469 U+1F3FF U+200D U+2708
+
+Astronaut
+U+1F468 U+200D U+1F680
+
+Astronaut
+U+1F468 U+1F3FB U+200D U+1F680
+
+Astronaut
+U+1F468 U+1F3FC U+200D U+1F680
+
+Astronaut
+U+1F468 U+1F3FD U+200D U+1F680
+
+Astronaut
+U+1F468 U+1F3FE U+200D U+1F680
+
+Astronaut
+U+1F468 U+1F3FF U+200D U+1F680
+
+Astronaut
+U+1F469 U+200D U+1F680
+
+Astronaut
+U+1F469 U+1F3FB U+200D U+1F680
+
+Astronaut
+U+1F469 U+1F3FC U+200D U+1F680
+
+Astronaut
+U+1F469 U+1F3FD U+200D U+1F680
+
+Astronaut
+U+1F469 U+1F3FE U+200D U+1F680
+
+Astronaut
+U+1F469 U+1F3FF U+200D U+1F680
+
+Firefighter
+U+1F468 U+200D U+1F692
+
+Firefighter
+U+1F468 U+1F3FB U+200D U+1F692
+
+Firefighter
+U+1F468 U+1F3FC U+200D U+1F692
+
+Firefighter
+U+1F468 U+1F3FD U+200D U+1F692
+
+Firefighter
+U+1F468 U+1F3FE U+200D U+1F692
+
+Firefighter
+U+1F468 U+1F3FF U+200D U+1F692
+
+Firefighter
+U+1F469 U+200D U+1F692
+
+Firefighter
+U+1F469 U+1F3FB U+200D U+1F692
+
+Firefighter
+U+1F469 U+1F3FC U+200D U+1F692
+
+Firefighter
+U+1F469 U+1F3FD U+200D U+1F692
+
+Firefighter
+U+1F469 U+1F3FE U+200D U+1F692
+
+Firefighter
+U+1F469 U+1F3FF U+200D U+1F692
+
+Police Officer
+U+1F46E U+200D U+2642
+
+Police Officer
+U+1F46E U+1F3FB U+200D U+2642
+
+Police Officer
+U+1F46E U+1F3FC U+200D U+2642
+
+Police Officer
+U+1F46E U+1F3FD U+200D U+2642
+
+Police Officer
+U+1F46E U+1F3FE U+200D U+2642
+
+Police Officer
+U+1F46E U+1F3FF U+200D U+2642
+
+Police Officer
+U+1F46E U+200D U+2640
+
+Police Officer
+U+1F46E U+1F3FB U+200D U+2640
+
+Police Officer
+U+1F46E U+1F3FC U+200D U+2640
+
+Police Officer
+U+1F46E U+1F3FD U+200D U+2640
+
+Police Officer
+U+1F46E U+1F3FE U+200D U+2640
+
+Police Officer
+U+1F46E U+1F3FF U+200D U+2640
+
+Detective
+U+1F575 U+200D U+2642
+
+Detective
+U+1F575 U+1F3FB U+200D U+2642
+
+Detective
+U+1F575 U+1F3FC U+200D U+2642
+
+Detective
+U+1F575 U+1F3FD U+200D U+2642
+
+Detective
+U+1F575 U+1F3FE U+200D U+2642
+
+Detective
+U+1F575 U+1F3FF U+200D U+2642
+
+Detective
+U+1F575 U+200D U+2640
+
+Detective
+U+1F575 U+1F3FB U+200D U+2640
+
+Detective
+U+1F575 U+1F3FC U+200D U+2640
+
+Detective
+U+1F575 U+1F3FD U+200D U+2640
+
+Detective
+U+1F575 U+1F3FE U+200D U+2640
+
+Detective
+U+1F575 U+1F3FF U+200D U+2640
+
+Guard
+U+1F482 U+200D U+2642
+
+Guard
+U+1F482 U+1F3FB U+200D U+2642
+
+Guard
+U+1F482 U+1F3FC U+200D U+2642
+
+Guard
+U+1F482 U+1F3FD U+200D U+2642
+
+Guard
+U+1F482 U+1F3FE U+200D U+2642
+
+Guard
+U+1F482 U+1F3FF U+200D U+2642
+
+Guard
+U+1F482 U+200D U+2640
+
+Guard
+U+1F482 U+1F3FB U+200D U+2640
+
+Guard
+U+1F482 U+1F3FC U+200D U+2640
+
+Guard
+U+1F482 U+1F3FD U+200D U+2640
+
+Guard
+U+1F482 U+1F3FE U+200D U+2640
+
+Guard
+U+1F482 U+1F3FF U+200D U+2640
+
+Construction Worker
+U+1F477 U+200D U+2642
+
+Construction Worker
+U+1F477 U+1F3FB U+200D U+2642
+
+Construction Worker
+U+1F477 U+1F3FC U+200D U+2642
+
+Construction Worker
+U+1F477 U+1F3FD U+200D U+2642
+
+Construction Worker
+U+1F477 U+1F3FE U+200D U+2642
+
+Construction Worker
+U+1F477 U+1F3FF U+200D U+2642
+
+Construction Worker
+U+1F477 U+200D U+2640
+
+Construction Worker
+U+1F477 U+1F3FB U+200D U+2640
+
+Construction Worker
+U+1F477 U+1F3FC U+200D U+2640
+
+Construction Worker
+U+1F477 U+1F3FD U+200D U+2640
+
+Construction Worker
+U+1F477 U+1F3FE U+200D U+2640
+
+Construction Worker
+U+1F477 U+1F3FF U+200D U+2640
+
+Prince
+U+1F934
+
+Prince
+U+1F934 U+1F3FB
+
+Prince
+U+1F934 U+1F3FC
+
+Prince
+U+1F934 U+1F3FD
+
+Prince
+U+1F934 U+1F3FE
+
+Prince
+U+1F934 U+1F3FF
+
+Princess
+U+1F478
+
+Princess
+U+1F478 U+1F3FB
+
+Princess
+U+1F478 U+1F3FC
+
+Princess
+U+1F478 U+1F3FD
+
+Princess
+U+1F478 U+1F3FE
+
+Princess
+U+1F478 U+1F3FF
+
+Person Wearing Turban
+U+1F473 U+200D U+2642
+
+Person Wearing Turban
+U+1F473 U+1F3FB U+200D U+2642
+
+Person Wearing Turban
+U+1F473 U+1F3FC U+200D U+2642
+
+Person Wearing Turban
+U+1F473 U+1F3FD U+200D U+2642
+
+Person Wearing Turban
+U+1F473 U+1F3FE U+200D U+2642
+
+Person Wearing Turban
+U+1F473 U+1F3FF U+200D U+2642
+
+Person Wearing Turban
+U+1F473 U+200D U+2640
+
+Person Wearing Turban
+U+1F473 U+1F3FB U+200D U+2640
+
+Person Wearing Turban
+U+1F473 U+1F3FC U+200D U+2640
+
+Person Wearing Turban
+U+1F473 U+1F3FD U+200D U+2640
+
+Person Wearing Turban
+U+1F473 U+1F3FE U+200D U+2640
+
+Person Wearing Turban
+U+1F473 U+1F3FF U+200D U+2640
+
+Man with Chinese Cap
+U+1F472
+
+Man with Chinese Cap
+U+1F472 U+1F3FB
+
+Man with Chinese Cap
+U+1F472 U+1F3FC
+
+Man with Chinese Cap
+U+1F472 U+1F3FD
+
+Man with Chinese Cap
+U+1F472 U+1F3FE
+
+Man with Chinese Cap
+U+1F472 U+1F3FF
+
+Woman with Headscarf
+U+1F9D5
+
+Woman with Headscarf
+U+1F9D5 U+1F3FB
+
+Woman with Headscarf
+U+1F9D5 U+1F3FC
+
+Woman with Headscarf
+U+1F9D5 U+1F3FD
+
+Woman with Headscarf
+U+1F9D5 U+1F3FE
+
+Woman with Headscarf
+U+1F9D5 U+1F3FF
+
+Bearded Person
+U+1F9D4
+
+Bearded Person
+U+1F9D4 U+1F3FB
+
+Bearded Person
+U+1F9D4 U+1F3FC
+
+Bearded Person
+U+1F9D4 U+1F3FD
+
+Bearded Person
+U+1F9D4 U+1F3FE
+
+Bearded Person
+U+1F9D4 U+1F3FF
+
+Person with Blond Hair
+U+1F471 U+200D U+2642
+
+Person with Blond Hair
+U+1F471 U+1F3FB U+200D U+2642
+
+Person with Blond Hair
+U+1F471 U+1F3FC U+200D U+2642
+
+Person with Blond Hair
+U+1F471 U+1F3FD U+200D U+2642
+
+Person with Blond Hair
+U+1F471 U+1F3FE U+200D U+2642
+
+Person with Blond Hair
+U+1F471 U+1F3FF U+200D U+2642
+
+Person with Blond Hair
+U+1F471 U+200D U+2640
+
+Person with Blond Hair
+U+1F471 U+1F3FB U+200D U+2640
+
+Person with Blond Hair
+U+1F471 U+1F3FC U+200D U+2640
+
+Person with Blond Hair
+U+1F471 U+1F3FD U+200D U+2640
+
+Person with Blond Hair
+U+1F471 U+1F3FE U+200D U+2640
+
+Person with Blond Hair
+U+1F471 U+1F3FF U+200D U+2640
+
+Man in Tuxedo
+U+1F935
+
+Man in Tuxedo
+U+1F935 U+1F3FB
+
+Man in Tuxedo
+U+1F935 U+1F3FC
+
+Man in Tuxedo
+U+1F935 U+1F3FD
+
+Man in Tuxedo
+U+1F935 U+1F3FE
+
+Man in Tuxedo
+U+1F935 U+1F3FF
+
+Bride with Veil
+U+1F470
+
+Bride with Veil
+U+1F470 U+1F3FB
+
+Bride with Veil
+U+1F470 U+1F3FC
+
+Bride with Veil
+U+1F470 U+1F3FD
+
+Bride with Veil
+U+1F470 U+1F3FE
+
+Bride with Veil
+U+1F470 U+1F3FF
+
+Pregnant Woman
+U+1F930
+
+Pregnant Woman
+U+1F930 U+1F3FB
+
+Pregnant Woman
+U+1F930 U+1F3FC
+
+Pregnant Woman
+U+1F930 U+1F3FD
+
+Pregnant Woman
+U+1F930 U+1F3FE
+
+Pregnant Woman
+U+1F930 U+1F3FF
+
+Breast-Feeding
+U+1F931
+
+Breast-Feeding
+U+1F931 U+1F3FB
+
+Breast-Feeding
+U+1F931 U+1F3FC
+
+Breast-Feeding
+U+1F931 U+1F3FD
+
+Breast-Feeding
+U+1F931 U+1F3FE
+
+Breast-Feeding
+U+1F931 U+1F3FF
+
+Baby Angel
+U+1F47C
+
+Baby Angel
+U+1F47C U+1F3FB
+
+Baby Angel
+U+1F47C U+1F3FC
+
+Baby Angel
+U+1F47C U+1F3FD
+
+Baby Angel
+U+1F47C U+1F3FE
+
+Baby Angel
+U+1F47C U+1F3FF
+
+Santa Claus
+U+1F385
+
+Santa Claus
+U+1F385 U+1F3FB
+
+Santa Claus
+U+1F385 U+1F3FC
+
+Santa Claus
+U+1F385 U+1F3FD
+
+Santa Claus
+U+1F385 U+1F3FE
+
+Santa Claus
+U+1F385 U+1F3FF
+
+Mrs. Claus
+U+1F936
+
+Mrs. Claus
+U+1F936 U+1F3FB
+
+Mrs. Claus
+U+1F936 U+1F3FC
+
+Mrs. Claus
+U+1F936 U+1F3FD
+
+Mrs. Claus
+U+1F936 U+1F3FE
+
+Mrs. Claus
+U+1F936 U+1F3FF
+
+Mage
+U+1F9D9 U+200D U+2640
+
+Mage
+U+1F9D9 U+1F3FB U+200D U+2640
+
+Mage
+U+1F9D9 U+1F3FC U+200D U+2640
+
+Mage
+U+1F9D9 U+1F3FD U+200D U+2640
+
+Mage
+U+1F9D9 U+1F3FE U+200D U+2640
+
+Mage
+U+1F9D9 U+1F3FF U+200D U+2640
+
+Mage
+U+1F9D9 U+200D U+2642
+
+Mage
+U+1F9D9 U+1F3FB U+200D U+2642
+
+Mage
+U+1F9D9 U+1F3FC U+200D U+2642
+
+Mage
+U+1F9D9 U+1F3FD U+200D U+2642
+
+Mage
+U+1F9D9 U+1F3FE U+200D U+2642
+
+Mage
+U+1F9D9 U+1F3FF U+200D U+2642
+
+Fairy
+U+1F9DA U+200D U+2640
+
+Fairy
+U+1F9DA U+1F3FB U+200D U+2640
+
+Fairy
+U+1F9DA U+1F3FC U+200D U+2640
+
+Fairy
+U+1F9DA U+1F3FD U+200D U+2640
+
+Fairy
+U+1F9DA U+1F3FE U+200D U+2640
+
+Fairy
+U+1F9DA U+1F3FF U+200D U+2640
+
+Fairy
+U+1F9DA U+200D U+2642
+
+Fairy
+U+1F9DA U+1F3FB U+200D U+2642
+
+Fairy
+U+1F9DA U+1F3FC U+200D U+2642
+
+Fairy
+U+1F9DA U+1F3FD U+200D U+2642
+
+Fairy
+U+1F9DA U+1F3FE U+200D U+2642
+
+Fairy
+U+1F9DA U+1F3FF U+200D U+2642
+
+Vampire
+U+1F9DB U+200D U+2640
+
+Vampire
+U+1F9DB U+1F3FB U+200D U+2640
+
+Vampire
+U+1F9DB U+1F3FC U+200D U+2640
+
+Vampire
+U+1F9DB U+1F3FD U+200D U+2640
+
+Vampire
+U+1F9DB U+1F3FE U+200D U+2640
+
+Vampire
+U+1F9DB U+1F3FF U+200D U+2640
+
+Vampire
+U+1F9DB U+200D U+2642
+
+Vampire
+U+1F9DB U+1F3FB U+200D U+2642
+
+Vampire
+U+1F9DB U+1F3FC U+200D U+2642
+
+Vampire
+U+1F9DB U+1F3FD U+200D U+2642
+
+Vampire
+U+1F9DB U+1F3FE U+200D U+2642
+
+Vampire
+U+1F9DB U+1F3FF U+200D U+2642
+
+Mermaid
+U+1F9DC U+200D U+2640
+
+Mermaid
+U+1F9DC U+1F3FB U+200D U+2640
+
+Mermaid
+U+1F9DC U+1F3FC U+200D U+2640
+
+Mermaid
+U+1F9DC U+1F3FD U+200D U+2640
+
+Mermaid
+U+1F9DC U+1F3FE U+200D U+2640
+
+Mermaid
+U+1F9DC U+1F3FF U+200D U+2640
+
+Merman
+U+1F9DC U+200D U+2642
+
+Merman
+U+1F9DC U+1F3FB U+200D U+2642
+
+Merman
+U+1F9DC U+1F3FC U+200D U+2642
+
+Merman
+U+1F9DC U+1F3FD U+200D U+2642
+
+Merman
+U+1F9DC U+1F3FE U+200D U+2642
+
+Merman
+U+1F9DC U+1F3FF U+200D U+2642
+
+Elf
+U+1F9DD U+200D U+2640
+
+Elf
+U+1F9DD U+1F3FB U+200D U+2640
+
+Elf
+U+1F9DD U+1F3FC U+200D U+2640
+
+Elf
+U+1F9DD U+1F3FD U+200D U+2640
+
+Elf
+U+1F9DD U+1F3FE U+200D U+2640
+
+Elf
+U+1F9DD U+1F3FF U+200D U+2640
+
+Elf
+U+1F9DD U+200D U+2642
+
+Elf
+U+1F9DD U+1F3FB U+200D U+2642
+
+Elf
+U+1F9DD U+1F3FC U+200D U+2642
+
+Elf
+U+1F9DD U+1F3FD U+200D U+2642
+
+Elf
+U+1F9DD U+1F3FE U+200D U+2642
+
+Elf
+U+1F9DD U+1F3FF U+200D U+2642
+
+Genie
+U+1F9DE U+200D U+2640
+
+Genie
+U+1F9DE U+200D U+2642
+
+Zombie
+U+1F9DF U+200D U+2640
+
+Zombie
+U+1F9DF U+200D U+2642
+
+Frowning
+U+1F64D U+200D U+2642
+
+Frowning
+U+1F64D U+1F3FB U+200D U+2642
+
+Frowning
+U+1F64D U+1F3FC U+200D U+2642
+
+Frowning
+U+1F64D U+1F3FD U+200D U+2642
+
+Frowning
+U+1F64D U+1F3FE U+200D U+2642
+
+Frowning
+U+1F64D U+1F3FF U+200D U+2642
+
+Frowning
+U+1F64D U+200D U+2640
+
+Frowning
+U+1F64D U+1F3FB U+200D U+2640
+
+Frowning
+U+1F64D U+1F3FC U+200D U+2640
+
+Frowning
+U+1F64D U+1F3FD U+200D U+2640
+
+Frowning
+U+1F64D U+1F3FE U+200D U+2640
+
+Frowning
+U+1F64D U+1F3FF U+200D U+2640
+
+Pouting
+U+1F64E U+200D U+2642
+
+Pouting
+U+1F64E U+1F3FB U+200D U+2642
+
+Pouting
+U+1F64E U+1F3FC U+200D U+2642
+
+Pouting
+U+1F64E U+1F3FD U+200D U+2642
+
+Pouting
+U+1F64E U+1F3FE U+200D U+2642
+
+Pouting
+U+1F64E U+1F3FF U+200D U+2642
+
+Pouting
+U+1F64E U+200D U+2640
+
+Pouting
+U+1F64E U+1F3FB U+200D U+2640
+
+Pouting
+U+1F64E U+1F3FC U+200D U+2640
+
+Pouting
+U+1F64E U+1F3FD U+200D U+2640
+
+Pouting
+U+1F64E U+1F3FE U+200D U+2640
+
+Pouting
+U+1F64E U+1F3FF U+200D U+2640
+
+No Good Gesture
+U+1F645 U+200D U+2642
+
+No Good Gesture
+U+1F645 U+1F3FB U+200D U+2642
+
+No Good Gesture
+U+1F645 U+1F3FC U+200D U+2642
+
+No Good Gesture
+U+1F645 U+1F3FD U+200D U+2642
+
+No Good Gesture
+U+1F645 U+1F3FE U+200D U+2642
+
+No Good Gesture
+U+1F645 U+1F3FF U+200D U+2642
+
+No Good Gesture
+U+1F645 U+200D U+2640
+
+No Good Gesture
+U+1F645 U+1F3FB U+200D U+2640
+
+No Good Gesture
+U+1F645 U+1F3FC U+200D U+2640
+
+No Good Gesture
+U+1F645 U+1F3FD U+200D U+2640
+
+No Good Gesture
+U+1F645 U+1F3FE U+200D U+2640
+
+No Good Gesture
+U+1F645 U+1F3FF U+200D U+2640
+
+OK Gesture
+U+1F646 U+200D U+2642
+
+OK Gesture
+U+1F646 U+1F3FB U+200D U+2642
+
+OK Gesture
+U+1F646 U+1F3FC U+200D U+2642
+
+OK Gesture
+U+1F646 U+1F3FD U+200D U+2642
+
+OK Gesture
+U+1F646 U+1F3FE U+200D U+2642
+
+OK Gesture
+U+1F646 U+1F3FF U+200D U+2642
+
+OK Gesture
+U+1F646 U+200D U+2640
+
+OK Gesture
+U+1F646 U+1F3FB U+200D U+2640
+
+OK Gesture
+U+1F646 U+1F3FC U+200D U+2640
+
+OK Gesture
+U+1F646 U+1F3FD U+200D U+2640
+
+OK Gesture
+U+1F646 U+1F3FE U+200D U+2640
+
+OK Gesture
+U+1F646 U+1F3FF U+200D U+2640
+
+Tipping Hand
+U+1F481 U+200D U+2642
+
+Tipping Hand
+U+1F481 U+1F3FB U+200D U+2642
+
+Tipping Hand
+U+1F481 U+1F3FC U+200D U+2642
+
+Tipping Hand
+U+1F481 U+1F3FD U+200D U+2642
+
+Tipping Hand
+U+1F481 U+1F3FE U+200D U+2642
+
+Tipping Hand
+U+1F481 U+1F3FF U+200D U+2642
+
+Tipping Hand
+U+1F481 U+200D U+2640
+
+Tipping Hand
+U+1F481 U+1F3FB U+200D U+2640
+
+Tipping Hand
+U+1F481 U+1F3FC U+200D U+2640
+
+Tipping Hand
+U+1F481 U+1F3FD U+200D U+2640
+
+Tipping Hand
+U+1F481 U+1F3FE U+200D U+2640
+
+Tipping Hand
+U+1F481 U+1F3FF U+200D U+2640
+
+Raising Hand
+U+1F64B U+200D U+2642
+
+Raising Hand
+U+1F64B U+1F3FB U+200D U+2642
+
+Raising Hand
+U+1F64B U+1F3FC U+200D U+2642
+
+Raising Hand
+U+1F64B U+1F3FD U+200D U+2642
+
+Raising Hand
+U+1F64B U+1F3FE U+200D U+2642
+
+Raising Hand
+U+1F64B U+1F3FF U+200D U+2642
+
+Raising Hand
+U+1F64B U+200D U+2640
+
+Raising Hand
+U+1F64B U+1F3FB U+200D U+2640
+
+Raising Hand
+U+1F64B U+1F3FC U+200D U+2640
+
+Raising Hand
+U+1F64B U+1F3FD U+200D U+2640
+
+Raising Hand
+U+1F64B U+1F3FE U+200D U+2640
+
+Raising Hand
+U+1F64B U+1F3FF U+200D U+2640
+
+Bowing Deeply
+U+1F647 U+200D U+2642
+
+Bowing Deeply
+U+1F647 U+1F3FB U+200D U+2642
+
+Bowing Deeply
+U+1F647 U+1F3FC U+200D U+2642
+
+Bowing Deeply
+U+1F647 U+1F3FD U+200D U+2642
+
+Bowing Deeply
+U+1F647 U+1F3FE U+200D U+2642
+
+Bowing Deeply
+U+1F647 U+1F3FF U+200D U+2642
+
+Bowing Deeply
+U+1F647 U+200D U+2640
+
+Bowing Deeply
+U+1F647 U+1F3FB U+200D U+2640
+
+Bowing Deeply
+U+1F647 U+1F3FC U+200D U+2640
+
+Bowing Deeply
+U+1F647 U+1F3FD U+200D U+2640
+
+Bowing Deeply
+U+1F647 U+1F3FE U+200D U+2640
+
+Bowing Deeply
+U+1F647 U+1F3FF U+200D U+2640
+
+Face Palm
+U+1F926 U+200D U+2642
+
+Face Palm
+U+1F926 U+1F3FB U+200D U+2642
+
+Face Palm
+U+1F926 U+1F3FC U+200D U+2642
+
+Face Palm
+U+1F926 U+1F3FD U+200D U+2642
+
+Face Palm
+U+1F926 U+1F3FE U+200D U+2642
+
+Face Palm
+U+1F926 U+1F3FF U+200D U+2642
+
+Face Palm
+U+1F926 U+200D U+2640
+
+Face Palm
+U+1F926 U+1F3FB U+200D U+2640
+
+Face Palm
+U+1F926 U+1F3FC U+200D U+2640
+
+Face Palm
+U+1F926 U+1F3FD U+200D U+2640
+
+Face Palm
+U+1F926 U+1F3FE U+200D U+2640
+
+Face Palm
+U+1F926 U+1F3FF U+200D U+2640
+
+Shrug
+U+1F937 U+200D U+2642
+
+Shrug
+U+1F937 U+1F3FB U+200D U+2642
+
+Shrug
+U+1F937 U+1F3FC U+200D U+2642
+
+Shrug
+U+1F937 U+1F3FD U+200D U+2642
+
+Shrug
+U+1F937 U+1F3FE U+200D U+2642
+
+Shrug
+U+1F937 U+1F3FF U+200D U+2642
+
+Shrug
+U+1F937 U+200D U+2640
+
+Shrug
+U+1F937 U+1F3FB U+200D U+2640
+
+Shrug
+U+1F937 U+1F3FC U+200D U+2640
+
+Shrug
+U+1F937 U+1F3FD U+200D U+2640
+
+Shrug
+U+1F937 U+1F3FE U+200D U+2640
+
+Shrug
+U+1F937 U+1F3FF U+200D U+2640
+
+Face Massage
+U+1F486 U+200D U+2642
+
+Face Massage
+U+1F486 U+1F3FB U+200D U+2642
+
+Face Massage
+U+1F486 U+1F3FC U+200D U+2642
+
+Face Massage
+U+1F486 U+1F3FD U+200D U+2642
+
+Face Massage
+U+1F486 U+1F3FE U+200D U+2642
+
+Face Massage
+U+1F486 U+1F3FF U+200D U+2642
+
+Face Massage
+U+1F486 U+200D U+2640
+
+Face Massage
+U+1F486 U+1F3FB U+200D U+2640
+
+Face Massage
+U+1F486 U+1F3FC U+200D U+2640
+
+Face Massage
+U+1F486 U+1F3FD U+200D U+2640
+
+Face Massage
+U+1F486 U+1F3FE U+200D U+2640
+
+Face Massage
+U+1F486 U+1F3FF U+200D U+2640
+
+Haircut
+U+1F487 U+200D U+2642
+
+Haircut
+U+1F487 U+1F3FB U+200D U+2642
+
+Haircut
+U+1F487 U+1F3FC U+200D U+2642
+
+Haircut
+U+1F487 U+1F3FD U+200D U+2642
+
+Haircut
+U+1F487 U+1F3FE U+200D U+2642
+
+Haircut
+U+1F487 U+1F3FF U+200D U+2642
+
+Haircut
+U+1F487 U+200D U+2640
+
+Haircut
+U+1F487 U+1F3FB U+200D U+2640
+
+Haircut
+U+1F487 U+1F3FC U+200D U+2640
+
+Haircut
+U+1F487 U+1F3FD U+200D U+2640
+
+Haircut
+U+1F487 U+1F3FE U+200D U+2640
+
+Haircut
+U+1F487 U+1F3FF U+200D U+2640
+
+Walking
+U+1F6B6 U+200D U+2642
+
+Walking
+U+1F6B6 U+1F3FB U+200D U+2642
+
+Walking
+U+1F6B6 U+1F3FC U+200D U+2642
+
+Walking
+U+1F6B6 U+1F3FD U+200D U+2642
+
+Walking
+U+1F6B6 U+1F3FE U+200D U+2642
+
+Walking
+U+1F6B6 U+1F3FF U+200D U+2642
+
+Walking
+U+1F6B6 U+200D U+2640
+
+Walking
+U+1F6B6 U+1F3FB U+200D U+2640
+
+Walking
+U+1F6B6 U+1F3FC U+200D U+2640
+
+Walking
+U+1F6B6 U+1F3FD U+200D U+2640
+
+Walking
+U+1F6B6 U+1F3FE U+200D U+2640
+
+Walking
+U+1F6B6 U+1F3FF U+200D U+2640
+
+Running
+U+1F3C3 U+200D U+2642
+
+Running
+U+1F3C3 U+1F3FB U+200D U+2642
+
+Running
+U+1F3C3 U+1F3FC U+200D U+2642
+
+Running
+U+1F3C3 U+1F3FD U+200D U+2642
+
+Running
+U+1F3C3 U+1F3FE U+200D U+2642
+
+Running
+U+1F3C3 U+1F3FF U+200D U+2642
+
+Running
+U+1F3C3 U+200D U+2640
+
+Running
+U+1F3C3 U+1F3FB U+200D U+2640
+
+Running
+U+1F3C3 U+1F3FC U+200D U+2640
+
+Running
+U+1F3C3 U+1F3FD U+200D U+2640
+
+Running
+U+1F3C3 U+1F3FE U+200D U+2640
+
+Running
+U+1F3C3 U+1F3FF U+200D U+2640
+
+Woman Dancing
+U+1F483
+
+Woman Dancing
+U+1F483 U+1F3FB
+
+Woman Dancing
+U+1F483 U+1F3FC
+
+Woman Dancing
+U+1F483 U+1F3FD
+
+Woman Dancing
+U+1F483 U+1F3FE
+
+Woman Dancing
+U+1F483 U+1F3FF
+
+Man Dancing
+U+1F57A
+
+Man Dancing
+U+1F57A U+1F3FB
+
+Man Dancing
+U+1F57A U+1F3FC
+
+Man Dancing
+U+1F57A U+1F3FD
+
+Man Dancing
+U+1F57A U+1F3FE
+
+Man Dancing
+U+1F57A U+1F3FF
+
+Partying
+U+1F46F U+200D U+2642
+
+Partying
+U+1F46F U+200D U+2640
+
+Person in Steamy Room
+U+1F9D6 U+200D U+2640
+
+Person in Steamy Room
+U+1F9D6 U+1F3FB U+200D U+2640
+
+Person in Steamy Room
+U+1F9D6 U+1F3FC U+200D U+2640
+
+Person in Steamy Room
+U+1F9D6 U+1F3FD U+200D U+2640
+
+Person in Steamy Room
+U+1F9D6 U+1F3FE U+200D U+2640
+
+Person in Steamy Room
+U+1F9D6 U+1F3FF U+200D U+2640
+
+Person in Steamy Room
+U+1F9D6 U+200D U+2642
+
+Person in Steamy Room
+U+1F9D6 U+1F3FB U+200D U+2642
+
+Person in Steamy Room
+U+1F9D6 U+1F3FC U+200D U+2642
+
+Person in Steamy Room
+U+1F9D6 U+1F3FD U+200D U+2642
+
+Person in Steamy Room
+U+1F9D6 U+1F3FE U+200D U+2642
+
+Person in Steamy Room
+U+1F9D6 U+1F3FF U+200D U+2642
+
+Climbing
+U+1F9D7 U+200D U+2640
+
+Climbing
+U+1F9D7 U+1F3FB U+200D U+2640
+
+Climbing
+U+1F9D7 U+1F3FC U+200D U+2640
+
+Climbing
+U+1F9D7 U+1F3FD U+200D U+2640
+
+Climbing
+U+1F9D7 U+1F3FE U+200D U+2640
+
+Climbing
+U+1F9D7 U+1F3FF U+200D U+2640
+
+Climbing
+U+1F9D7 U+200D U+2642
+
+Climbing
+U+1F9D7 U+1F3FB U+200D U+2642
+
+Climbing
+U+1F9D7 U+1F3FC U+200D U+2642
+
+Climbing
+U+1F9D7 U+1F3FD U+200D U+2642
+
+Climbing
+U+1F9D7 U+1F3FE U+200D U+2642
+
+Climbing
+U+1F9D7 U+1F3FF U+200D U+2642
+
+Person in Lotus Position
+U+1F9D8 U+200D U+2640
+
+Person in Lotus Position
+U+1F9D8 U+1F3FB U+200D U+2640
+
+Person in Lotus Position
+U+1F9D8 U+1F3FC U+200D U+2640
+
+Person in Lotus Position
+U+1F9D8 U+1F3FD U+200D U+2640
+
+Person in Lotus Position
+U+1F9D8 U+1F3FE U+200D U+2640
+
+Person in Lotus Position
+U+1F9D8 U+1F3FF U+200D U+2640
+
+Person in Lotus Position
+U+1F9D8 U+200D U+2642
+
+Person in Lotus Position
+U+1F9D8 U+1F3FB U+200D U+2642
+
+Person in Lotus Position
+U+1F9D8 U+1F3FC U+200D U+2642
+
+Person in Lotus Position
+U+1F9D8 U+1F3FD U+200D U+2642
+
+Person in Lotus Position
+U+1F9D8 U+1F3FE U+200D U+2642
+
+Person in Lotus Position
+U+1F9D8 U+1F3FF U+200D U+2642
+
+Person Taking Bath
+U+1F6C0
+
+Person Taking Bath
+U+1F6C0 U+1F3FB
+
+Person Taking Bath
+U+1F6C0 U+1F3FC
+
+Person Taking Bath
+U+1F6C0 U+1F3FD
+
+Person Taking Bath
+U+1F6C0 U+1F3FE
+
+Person Taking Bath
+U+1F6C0 U+1F3FF
+
+Person in Bed
+U+1F6CC
+
+Person in Bed
+U+1F6CC U+1F3FB
+
+Person in Bed
+U+1F6CC U+1F3FC
+
+Person in Bed
+U+1F6CC U+1F3FD
+
+Person in Bed
+U+1F6CC U+1F3FE
+
+Person in Bed
+U+1F6CC U+1F3FF
+
+Man in Business Suit Levitating
+U+1F574
+
+Man in Business Suit Levitating
+U+1F574 U+1F3FB
+
+Man in Business Suit Levitating
+U+1F574 U+1F3FC
+
+Man in Business Suit Levitating
+U+1F574 U+1F3FD
+
+Man in Business Suit Levitating
+U+1F574 U+1F3FE
+
+Man in Business Suit Levitating
+U+1F574 U+1F3FF
+
+Speaking Head
+U+1F5E3
+
+Bust in Silhouette
+U+1F464
+
+Busts in Silhouette
+U+1F465
+
+Person Fencing
+U+1F93A
+
+Horse Racing
+U+1F3C7
+
+Horse Racing
+U+1F3C7 U+1F3FB
+
+Horse Racing
+U+1F3C7 U+1F3FC
+
+Horse Racing
+U+1F3C7 U+1F3FD
+
+Horse Racing
+U+1F3C7 U+1F3FE
+
+Horse Racing
+U+1F3C7 U+1F3FF
+
+Skier
+U+26F7
+
+Snowboarder
+U+1F3C2
+
+Snowboarder
+U+1F3C2 U+1F3FB
+
+Snowboarder
+U+1F3C2 U+1F3FC
+
+Snowboarder
+U+1F3C2 U+1F3FD
+
+Snowboarder
+U+1F3C2 U+1F3FE
+
+Snowboarder
+U+1F3C2 U+1F3FF
+
+Golfing
+U+1F3CC U+200D U+2642
+
+Golfing
+U+1F3CC U+1F3FB U+200D U+2642
+
+Golfing
+U+1F3CC U+1F3FC U+200D U+2642
+
+Golfing
+U+1F3CC U+1F3FD U+200D U+2642
+
+Golfing
+U+1F3CC U+1F3FE U+200D U+2642
+
+Golfing
+U+1F3CC U+1F3FF U+200D U+2642
+
+Golfing
+U+1F3CC U+200D U+2640
+
+Golfing
+U+1F3CC U+1F3FB U+200D U+2640
+
+Golfing
+U+1F3CC U+1F3FC U+200D U+2640
+
+Golfing
+U+1F3CC U+1F3FD U+200D U+2640
+
+Golfing
+U+1F3CC U+1F3FE U+200D U+2640
+
+Golfing
+U+1F3CC U+1F3FF U+200D U+2640
+
+Surfing
+U+1F3C4 U+200D U+2642
+
+Surfing
+U+1F3C4 U+1F3FB U+200D U+2642
+
+Surfing
+U+1F3C4 U+1F3FC U+200D U+2642
+
+Surfing
+U+1F3C4 U+1F3FD U+200D U+2642
+
+Surfing
+U+1F3C4 U+1F3FE U+200D U+2642
+
+Surfing
+U+1F3C4 U+1F3FF U+200D U+2642
+
+Surfing
+U+1F3C4 U+200D U+2640
+
+Surfing
+U+1F3C4 U+1F3FB U+200D U+2640
+
+Surfing
+U+1F3C4 U+1F3FC U+200D U+2640
+
+Surfing
+U+1F3C4 U+1F3FD U+200D U+2640
+
+Surfing
+U+1F3C4 U+1F3FE U+200D U+2640
+
+Surfing
+U+1F3C4 U+1F3FF U+200D U+2640
+
+Rowing
+U+1F6A3 U+200D U+2642
+
+Rowing
+U+1F6A3 U+1F3FB U+200D U+2642
+
+Rowing
+U+1F6A3 U+1F3FC U+200D U+2642
+
+Rowing
+U+1F6A3 U+1F3FD U+200D U+2642
+
+Rowing
+U+1F6A3 U+1F3FE U+200D U+2642
+
+Rowing
+U+1F6A3 U+1F3FF U+200D U+2642
+
+Rowing
+U+1F6A3 U+200D U+2640
+
+Rowing
+U+1F6A3 U+1F3FB U+200D U+2640
+
+Rowing
+U+1F6A3 U+1F3FC U+200D U+2640
+
+Rowing
+U+1F6A3 U+1F3FD U+200D U+2640
+
+Rowing
+U+1F6A3 U+1F3FE U+200D U+2640
+
+Rowing
+U+1F6A3 U+1F3FF U+200D U+2640
+
+Swimming
+U+1F3CA U+200D U+2642
+
+Swimming
+U+1F3CA U+1F3FB U+200D U+2642
+
+Swimming
+U+1F3CA U+1F3FC U+200D U+2642
+
+Swimming
+U+1F3CA U+1F3FD U+200D U+2642
+
+Swimming
+U+1F3CA U+1F3FE U+200D U+2642
+
+Swimming
+U+1F3CA U+1F3FF U+200D U+2642
+
+Swimming
+U+1F3CA U+200D U+2640
+
+Swimming
+U+1F3CA U+1F3FB U+200D U+2640
+
+Swimming
+U+1F3CA U+1F3FC U+200D U+2640
+
+Swimming
+U+1F3CA U+1F3FD U+200D U+2640
+
+Swimming
+U+1F3CA U+1F3FE U+200D U+2640
+
+Swimming
+U+1F3CA U+1F3FF U+200D U+2640
+
+Bouncing a Ball
+U+26F9 U+200D U+2642
+
+Bouncing a Ball
+U+26F9 U+1F3FB U+200D U+2642
+
+Bouncing a Ball
+U+26F9 U+1F3FC U+200D U+2642
+
+Bouncing a Ball
+U+26F9 U+1F3FD U+200D U+2642
+
+Bouncing a Ball
+U+26F9 U+1F3FE U+200D U+2642
+
+Bouncing a Ball
+U+26F9 U+1F3FF U+200D U+2642
+
+Bouncing a Ball
+U+26F9 U+200D U+2640
+
+Bouncing a Ball
+U+26F9 U+1F3FB U+200D U+2640
+
+Bouncing a Ball
+U+26F9 U+1F3FC U+200D U+2640
+
+Bouncing a Ball
+U+26F9 U+1F3FD U+200D U+2640
+
+Bouncing a Ball
+U+26F9 U+1F3FE U+200D U+2640
+
+Bouncing a Ball
+U+26F9 U+1F3FF U+200D U+2640
+
+Weight Lifting
+U+1F3CB U+200D U+2642
+
+Weight Lifting
+U+1F3CB U+1F3FB U+200D U+2642
+
+Weight Lifting
+U+1F3CB U+1F3FC U+200D U+2642
+
+Weight Lifting
+U+1F3CB U+1F3FD U+200D U+2642
+
+Weight Lifting
+U+1F3CB U+1F3FE U+200D U+2642
+
+Weight Lifting
+U+1F3CB U+1F3FF U+200D U+2642
+
+Weight Lifting
+U+1F3CB U+200D U+2640
+
+Weight Lifting
+U+1F3CB U+1F3FB U+200D U+2640
+
+Weight Lifting
+U+1F3CB U+1F3FC U+200D U+2640
+
+Weight Lifting
+U+1F3CB U+1F3FD U+200D U+2640
+
+Weight Lifting
+U+1F3CB U+1F3FE U+200D U+2640
+
+Weight Lifting
+U+1F3CB U+1F3FF U+200D U+2640
+
+Bicycling
+U+1F6B4 U+200D U+2642
+
+Bicycling
+U+1F6B4 U+1F3FB U+200D U+2642
+
+Bicycling
+U+1F6B4 U+1F3FC U+200D U+2642
+
+Bicycling
+U+1F6B4 U+1F3FD U+200D U+2642
+
+Bicycling
+U+1F6B4 U+1F3FE U+200D U+2642
+
+Bicycling
+U+1F6B4 U+1F3FF U+200D U+2642
+
+Bicycling
+U+1F6B4 U+200D U+2640
+
+Bicycling
+U+1F6B4 U+1F3FB U+200D U+2640
+
+Bicycling
+U+1F6B4 U+1F3FC U+200D U+2640
+
+Bicycling
+U+1F6B4 U+1F3FD U+200D U+2640
+
+Bicycling
+U+1F6B4 U+1F3FE U+200D U+2640
+
+Bicycling
+U+1F6B4 U+1F3FF U+200D U+2640
+
+Mountain Biking
+U+1F6B5 U+200D U+2642
+
+Mountain Biking
+U+1F6B5 U+1F3FB U+200D U+2642
+
+Mountain Biking
+U+1F6B5 U+1F3FC U+200D U+2642
+
+Mountain Biking
+U+1F6B5 U+1F3FD U+200D U+2642
+
+Mountain Biking
+U+1F6B5 U+1F3FE U+200D U+2642
+
+Mountain Biking
+U+1F6B5 U+1F3FF U+200D U+2642
+
+Mountain Biking
+U+1F6B5 U+200D U+2640
+
+Mountain Biking
+U+1F6B5 U+1F3FB U+200D U+2640
+
+Mountain Biking
+U+1F6B5 U+1F3FC U+200D U+2640
+
+Mountain Biking
+U+1F6B5 U+1F3FD U+200D U+2640
+
+Mountain Biking
+U+1F6B5 U+1F3FE U+200D U+2640
+
+Mountain Biking
+U+1F6B5 U+1F3FF U+200D U+2640
+
+Racing Car
+U+1F3CE
+
+Motorcycle
+U+1F3CD
+
+Doing a Cartwheel
+U+1F938 U+200D U+2642
+
+Doing a Cartwheel
+U+1F938 U+1F3FB U+200D U+2642
+
+Doing a Cartwheel
+U+1F938 U+1F3FC U+200D U+2642
+
+Doing a Cartwheel
+U+1F938 U+1F3FD U+200D U+2642
+
+Doing a Cartwheel
+U+1F938 U+1F3FE U+200D U+2642
+
+Doing a Cartwheel
+U+1F938 U+1F3FF U+200D U+2642
+
+Doing a Cartwheel
+U+1F938 U+200D U+2640
+
+Doing a Cartwheel
+U+1F938 U+1F3FB U+200D U+2640
+
+Doing a Cartwheel
+U+1F938 U+1F3FC U+200D U+2640
+
+Doing a Cartwheel
+U+1F938 U+1F3FD U+200D U+2640
+
+Doing a Cartwheel
+U+1F938 U+1F3FE U+200D U+2640
+
+Doing a Cartwheel
+U+1F938 U+1F3FF U+200D U+2640
+
+Wrestling
+U+1F93C U+200D U+2642
+
+Wrestling
+U+1F93C U+1F3FB U+200D U+2642
+
+Wrestling
+U+1F93C U+1F3FC U+200D U+2642
+
+Wrestling
+U+1F93C U+1F3FD U+200D U+2642
+
+Wrestling
+U+1F93C U+1F3FE U+200D U+2642
+
+Wrestling
+U+1F93C U+1F3FF U+200D U+2642
+
+Wrestling
+U+1F93C U+200D U+2640
+
+Wrestling
+U+1F93C U+1F3FB U+200D U+2640
+
+Wrestling
+U+1F93C U+1F3FC U+200D U+2640
+
+Wrestling
+U+1F93C U+1F3FD U+200D U+2640
+
+Wrestling
+U+1F93C U+1F3FE U+200D U+2640
+
+Wrestling
+U+1F93C U+1F3FF U+200D U+2640
+
+Water Polo
+U+1F93D U+200D U+2642
+
+Water Polo
+U+1F93D U+1F3FB U+200D U+2642
+
+Water Polo
+U+1F93D U+1F3FC U+200D U+2642
+
+Water Polo
+U+1F93D U+1F3FD U+200D U+2642
+
+Water Polo
+U+1F93D U+1F3FE U+200D U+2642
+
+Water Polo
+U+1F93D U+1F3FF U+200D U+2642
+
+Water Polo
+U+1F93D U+200D U+2640
+
+Water Polo
+U+1F93D U+1F3FB U+200D U+2640
+
+Water Polo
+U+1F93D U+1F3FC U+200D U+2640
+
+Water Polo
+U+1F93D U+1F3FD U+200D U+2640
+
+Water Polo
+U+1F93D U+1F3FE U+200D U+2640
+
+Water Polo
+U+1F93D U+1F3FF U+200D U+2640
+
+Playing Handball
+U+1F93E U+200D U+2642
+
+Playing Handball
+U+1F93E U+1F3FB U+200D U+2642
+
+Playing Handball
+U+1F93E U+1F3FC U+200D U+2642
+
+Playing Handball
+U+1F93E U+1F3FD U+200D U+2642
+
+Playing Handball
+U+1F93E U+1F3FE U+200D U+2642
+
+Playing Handball
+U+1F93E U+1F3FF U+200D U+2642
+
+Playing Handball
+U+1F93E U+200D U+2640
+
+Playing Handball
+U+1F93E U+1F3FB U+200D U+2640
+
+Playing Handball
+U+1F93E U+1F3FC U+200D U+2640
+
+Playing Handball
+U+1F93E U+1F3FD U+200D U+2640
+
+Playing Handball
+U+1F93E U+1F3FE U+200D U+2640
+
+Playing Handball
+U+1F93E U+1F3FF U+200D U+2640
+
+Juggling
+U+1F939 U+200D U+2642
+
+Juggling
+U+1F939 U+1F3FB U+200D U+2642
+
+Juggling
+U+1F939 U+1F3FC U+200D U+2642
+
+Juggling
+U+1F939 U+1F3FD U+200D U+2642
+
+Juggling
+U+1F939 U+1F3FE U+200D U+2642
+
+Juggling
+U+1F939 U+1F3FF U+200D U+2642
+
+Juggling
+U+1F939 U+200D U+2640
+
+Juggling
+U+1F939 U+1F3FB U+200D U+2640
+
+Juggling
+U+1F939 U+1F3FC U+200D U+2640
+
+Juggling
+U+1F939 U+1F3FD U+200D U+2640
+
+Juggling
+U+1F939 U+1F3FE U+200D U+2640
+
+Juggling
+U+1F939 U+1F3FF U+200D U+2640
+
+Man and Woman Holding Hands
+U+1F46B
+
+Two Men Holding Hands
+U+1F46C
+
+Two Women Holding Hands
+U+1F46D
+
+Kiss
+U+1F469 U+200D U+2764 U+200D U+1F48B U+200D U+1F468
+
+Kiss
+U+1F468 U+200D U+2764 U+200D U+1F48B U+200D U+1F468
+
+Kiss
+U+1F469 U+200D U+2764 U+200D U+1F48B U+200D U+1F469
+
+Couple with Heart
+U+1F469 U+200D U+2764 U+200D U+1F468
+
+Couple with Heart
+U+1F468 U+200D U+2764 U+200D U+1F468
+
+Couple with Heart
+U+1F469 U+200D U+2764 U+200D U+1F469
+
+Family
+U+1F468 U+200D U+1F469 U+200D U+1F466
+
+Family
+U+1F468 U+200D U+1F469 U+200D U+1F467
+
+Family
+U+1F468 U+200D U+1F469 U+200D U+1F467 U+200D U+1F466
+
+Family
+U+1F468 U+200D U+1F469 U+200D U+1F466 U+200D U+1F466
+
+Family
+U+1F468 U+200D U+1F469 U+200D U+1F467 U+200D U+1F467
+
+Family
+U+1F468 U+200D U+1F468 U+200D U+1F466
+
+Family
+U+1F468 U+200D U+1F468 U+200D U+1F467
+
+Family
+U+1F468 U+200D U+1F468 U+200D U+1F467 U+200D U+1F466
+
+Family
+U+1F468 U+200D U+1F468 U+200D U+1F466 U+200D U+1F466
+
+Family
+U+1F468 U+200D U+1F468 U+200D U+1F467 U+200D U+1F467
+
+Family
+U+1F469 U+200D U+1F469 U+200D U+1F466
+
+Family
+U+1F469 U+200D U+1F469 U+200D U+1F467
+
+Family
+U+1F469 U+200D U+1F469 U+200D U+1F467 U+200D U+1F466
+
+Family
+U+1F469 U+200D U+1F469 U+200D U+1F466 U+200D U+1F466
+
+Family
+U+1F469 U+200D U+1F469 U+200D U+1F467 U+200D U+1F467
+
+Family
+U+1F468 U+200D U+1F466
+
+Family
+U+1F468 U+200D U+1F466 U+200D U+1F466
+
+Family
+U+1F468 U+200D U+1F467
+
+Family
+U+1F468 U+200D U+1F467 U+200D U+1F466
+
+Family
+U+1F468 U+200D U+1F467 U+200D U+1F467
+
+Family
+U+1F469 U+200D U+1F466
+
+Family
+U+1F469 U+200D U+1F466 U+200D U+1F466
+
+Family
+U+1F469 U+200D U+1F467
+
+Family
+U+1F469 U+200D U+1F467 U+200D U+1F466
+
+Family
+U+1F469 U+200D U+1F467 U+200D U+1F467
+
+Selfie
+U+1F933
+
+Selfie
+U+1F933 U+1F3FB
+
+Selfie
+U+1F933 U+1F3FC
+
+Selfie
+U+1F933 U+1F3FD
+
+Selfie
+U+1F933 U+1F3FE
+
+Selfie
+U+1F933 U+1F3FF
+
+Flexed Biceps
+U+1F4AA
+
+Flexed Biceps
+U+1F4AA U+1F3FB
+
+Flexed Biceps
+U+1F4AA U+1F3FC
+
+Flexed Biceps
+U+1F4AA U+1F3FD
+
+Flexed Biceps
+U+1F4AA U+1F3FE
+
+Flexed Biceps
+U+1F4AA U+1F3FF
+
+Backhand Index Pointing Left
+U+1F448
+
+Backhand Index Pointing Left
+U+1F448 U+1F3FB
+
+Backhand Index Pointing Left
+U+1F448 U+1F3FC
+
+Backhand Index Pointing Left
+U+1F448 U+1F3FD
+
+Backhand Index Pointing Left
+U+1F448 U+1F3FE
+
+Backhand Index Pointing Left
+U+1F448 U+1F3FF
+
+Backhand Index Pointing Right
+U+1F449
+
+Backhand Index Pointing Right
+U+1F449 U+1F3FB
+
+Backhand Index Pointing Right
+U+1F449 U+1F3FC
+
+Backhand Index Pointing Right
+U+1F449 U+1F3FD
+
+Backhand Index Pointing Right
+U+1F449 U+1F3FE
+
+Backhand Index Pointing Right
+U+1F449 U+1F3FF
+
+Index Pointing Up
+U+261D
+
+Index Pointing Up
+U+261D U+1F3FB
+
+Index Pointing Up
+U+261D U+1F3FC
+
+Index Pointing Up
+U+261D U+1F3FD
+
+Index Pointing Up
+U+261D U+1F3FE
+
+Index Pointing Up
+U+261D U+1F3FF
+
+Backhand Index Pointing Up
+U+1F446
+
+Backhand Index Pointing Up
+U+1F446 U+1F3FB
+
+Backhand Index Pointing Up
+U+1F446 U+1F3FC
+
+Backhand Index Pointing Up
+U+1F446 U+1F3FD
+
+Backhand Index Pointing Up
+U+1F446 U+1F3FE
+
+Backhand Index Pointing Up
+U+1F446 U+1F3FF
+
+Middle Finger
+U+1F595
+
+Middle Finger
+U+1F595 U+1F3FB
+
+Middle Finger
+U+1F595 U+1F3FC
+
+Middle Finger
+U+1F595 U+1F3FD
+
+Middle Finger
+U+1F595 U+1F3FE
+
+Middle Finger
+U+1F595 U+1F3FF
+
+Backhand Index Pointing Down
+U+1F447
+
+Backhand Index Pointing Down
+U+1F447 U+1F3FB
+
+Backhand Index Pointing Down
+U+1F447 U+1F3FC
+
+Backhand Index Pointing Down
+U+1F447 U+1F3FD
+
+Backhand Index Pointing Down
+U+1F447 U+1F3FE
+
+Backhand Index Pointing Down
+U+1F447 U+1F3FF
+
+Victory Hand
+U+270C
+
+Victory Hand
+U+270C U+1F3FB
+
+Victory Hand
+U+270C U+1F3FC
+
+Victory Hand
+U+270C U+1F3FD
+
+Victory Hand
+U+270C U+1F3FE
+
+Victory Hand
+U+270C U+1F3FF
+
+Crossed Fingers
+U+1F91E
+
+Crossed Fingers
+U+1F91E U+1F3FB
+
+Crossed Fingers
+U+1F91E U+1F3FC
+
+Crossed Fingers
+U+1F91E U+1F3FD
+
+Crossed Fingers
+U+1F91E U+1F3FE
+
+Crossed Fingers
+U+1F91E U+1F3FF
+
+Vulcan Salute
+U+1F596
+
+Vulcan Salute
+U+1F596 U+1F3FB
+
+Vulcan Salute
+U+1F596 U+1F3FC
+
+Vulcan Salute
+U+1F596 U+1F3FD
+
+Vulcan Salute
+U+1F596 U+1F3FE
+
+Vulcan Salute
+U+1F596 U+1F3FF
+
+Sign of The Horns
+U+1F918
+
+Sign of The Horns
+U+1F918 U+1F3FB
+
+Sign of The Horns
+U+1F918 U+1F3FC
+
+Sign of The Horns
+U+1F918 U+1F3FD
+
+Sign of The Horns
+U+1F918 U+1F3FE
+
+Sign of The Horns
+U+1F918 U+1F3FF
+
+Call Me Hand
+U+1F919
+
+Call Me Hand
+U+1F919 U+1F3FB
+
+Call Me Hand
+U+1F919 U+1F3FC
+
+Call Me Hand
+U+1F919 U+1F3FD
+
+Call Me Hand
+U+1F919 U+1F3FE
+
+Call Me Hand
+U+1F919 U+1F3FF
+
+Raised Hand with Fingers Splayed
+U+1F590
+
+Raised Hand with Fingers Splayed
+U+1F590 U+1F3FB
+
+Raised Hand with Fingers Splayed
+U+1F590 U+1F3FC
+
+Raised Hand with Fingers Splayed
+U+1F590 U+1F3FD
+
+Raised Hand with Fingers Splayed
+U+1F590 U+1F3FE
+
+Raised Hand with Fingers Splayed
+U+1F590 U+1F3FF
+
+Raised Hand
+U+270B
+
+Raised Hand
+U+270B U+1F3FB
+
+Raised Hand
+U+270B U+1F3FC
+
+Raised Hand
+U+270B U+1F3FD
+
+Raised Hand
+U+270B U+1F3FE
+
+Raised Hand
+U+270B U+1F3FF
+
+OK Hand
+U+1F44C
+
+OK Hand
+U+1F44C U+1F3FB
+
+OK Hand
+U+1F44C U+1F3FC
+
+OK Hand
+U+1F44C U+1F3FD
+
+OK Hand
+U+1F44C U+1F3FE
+
+OK Hand
+U+1F44C U+1F3FF
+
+Thumbs Up
+U+1F44D
+
+Thumbs Up
+U+1F44D U+1F3FB
+
+Thumbs Up
+U+1F44D U+1F3FC
+
+Thumbs Up
+U+1F44D U+1F3FD
+
+Thumbs Up
+U+1F44D U+1F3FE
+
+Thumbs Up
+U+1F44D U+1F3FF
+
+Thumbs Down
+U+1F44E
+
+Thumbs Down
+U+1F44E U+1F3FB
+
+Thumbs Down
+U+1F44E U+1F3FC
+
+Thumbs Down
+U+1F44E U+1F3FD
+
+Thumbs Down
+U+1F44E U+1F3FE
+
+Thumbs Down
+U+1F44E U+1F3FF
+
+Raised Fist
+U+270A
+
+Raised Fist
+U+270A U+1F3FB
+
+Raised Fist
+U+270A U+1F3FC
+
+Raised Fist
+U+270A U+1F3FD
+
+Raised Fist
+U+270A U+1F3FE
+
+Raised Fist
+U+270A U+1F3FF
+
+Oncoming Fist
+U+1F44A
+
+Oncoming Fist
+U+1F44A U+1F3FB
+
+Oncoming Fist
+U+1F44A U+1F3FC
+
+Oncoming Fist
+U+1F44A U+1F3FD
+
+Oncoming Fist
+U+1F44A U+1F3FE
+
+Oncoming Fist
+U+1F44A U+1F3FF
+
+Left-Facing Fist
+U+1F91B
+
+Left-Facing Fist
+U+1F91B U+1F3FB
+
+Left-Facing Fist
+U+1F91B U+1F3FC
+
+Left-Facing Fist
+U+1F91B U+1F3FD
+
+Left-Facing Fist
+U+1F91B U+1F3FE
+
+Left-Facing Fist
+U+1F91B U+1F3FF
+
+Right-Facing Fist
+U+1F91C
+
+Right-Facing Fist
+U+1F91C U+1F3FB
+
+Right-Facing Fist
+U+1F91C U+1F3FC
+
+Right-Facing Fist
+U+1F91C U+1F3FD
+
+Right-Facing Fist
+U+1F91C U+1F3FE
+
+Right-Facing Fist
+U+1F91C U+1F3FF
+
+Raised Back of Hand
+U+1F91A
+
+Raised Back of Hand
+U+1F91A U+1F3FB
+
+Raised Back of Hand
+U+1F91A U+1F3FC
+
+Raised Back of Hand
+U+1F91A U+1F3FD
+
+Raised Back of Hand
+U+1F91A U+1F3FE
+
+Raised Back of Hand
+U+1F91A U+1F3FF
+
+Waving Hand
+U+1F44B
+
+Waving Hand
+U+1F44B U+1F3FB
+
+Waving Hand
+U+1F44B U+1F3FC
+
+Waving Hand
+U+1F44B U+1F3FD
+
+Waving Hand
+U+1F44B U+1F3FE
+
+Waving Hand
+U+1F44B U+1F3FF
+
+Love-You Gesture
+U+1F91F
+
+Love-You Gesture
+U+1F91F U+1F3FB
+
+Love-You Gesture
+U+1F91F U+1F3FC
+
+Love-You Gesture
+U+1F91F U+1F3FD
+
+Love-You Gesture
+U+1F91F U+1F3FE
+
+Love-You Gesture
+U+1F91F U+1F3FF
+
+Writing Hand
+U+270D
+
+Writing Hand
+U+270D U+1F3FB
+
+Writing Hand
+U+270D U+1F3FC
+
+Writing Hand
+U+270D U+1F3FD
+
+Writing Hand
+U+270D U+1F3FE
+
+Writing Hand
+U+270D U+1F3FF
+
+Clapping Hands
+U+1F44F
+
+Clapping Hands
+U+1F44F U+1F3FB
+
+Clapping Hands
+U+1F44F U+1F3FC
+
+Clapping Hands
+U+1F44F U+1F3FD
+
+Clapping Hands
+U+1F44F U+1F3FE
+
+Clapping Hands
+U+1F44F U+1F3FF
+
+Open Hands
+U+1F450
+
+Open Hands
+U+1F450 U+1F3FB
+
+Open Hands
+U+1F450 U+1F3FC
+
+Open Hands
+U+1F450 U+1F3FD
+
+Open Hands
+U+1F450 U+1F3FE
+
+Open Hands
+U+1F450 U+1F3FF
+
+Raising Hands
+U+1F64C
+
+Raising Hands
+U+1F64C U+1F3FB
+
+Raising Hands
+U+1F64C U+1F3FC
+
+Raising Hands
+U+1F64C U+1F3FD
+
+Raising Hands
+U+1F64C U+1F3FE
+
+Raising Hands
+U+1F64C U+1F3FF
+
+Palms Up Together
+U+1F932
+
+Palms Up Together
+U+1F932 U+1F3FB
+
+Palms Up Together
+U+1F932 U+1F3FC
+
+Palms Up Together
+U+1F932 U+1F3FD
+
+Palms Up Together
+U+1F932 U+1F3FE
+
+Palms Up Together
+U+1F932 U+1F3FF
+
+Folded Hands
+U+1F64F
+
+Folded Hands
+U+1F64F U+1F3FB
+
+Folded Hands
+U+1F64F U+1F3FC
+
+Folded Hands
+U+1F64F U+1F3FD
+
+Folded Hands
+U+1F64F U+1F3FE
+
+Folded Hands
+U+1F64F U+1F3FF
+
+Handshake
+U+1F91D
+
+Handshake
+U+1F91D U+1F3FB
+
+Handshake
+U+1F91D U+1F3FC
+
+Handshake
+U+1F91D U+1F3FD
+
+Handshake
+U+1F91D U+1F3FE
+
+Handshake
+U+1F91D U+1F3FF
+
+Nail Polish
+U+1F485
+
+Nail Polish
+U+1F485 U+1F3FB
+
+Nail Polish
+U+1F485 U+1F3FC
+
+Nail Polish
+U+1F485 U+1F3FD
+
+Nail Polish
+U+1F485 U+1F3FE
+
+Nail Polish
+U+1F485 U+1F3FF
+
+Ear
+U+1F442
+
+Ear
+U+1F442 U+1F3FB
+
+Ear
+U+1F442 U+1F3FC
+
+Ear
+U+1F442 U+1F3FD
+
+Ear
+U+1F442 U+1F3FE
+
+Ear
+U+1F442 U+1F3FF
+
+Nose
+U+1F443
+
+Nose
+U+1F443 U+1F3FB
+
+Nose
+U+1F443 U+1F3FC
+
+Nose
+U+1F443 U+1F3FD
+
+Nose
+U+1F443 U+1F3FE
+
+Nose
+U+1F443 U+1F3FF
+
+Footprints
+U+1F463
+
+Eyes
+U+1F440
+
+Eye
+U+1F441
+
+I Witness
+U+1F441 U+200D U+1F5E8
+
+Brain
+U+1F9E0
+
+Tongue
+U+1F445
+
+Mouth
+U+1F444
+
+Kiss Mark
+U+1F48B
+
+Heart with Arrow
+U+1F498
+
+Red Heart
+U+2764
+
+Beating Heart
+U+1F493
+
+Broken Heart
+U+1F494
+
+Two Hearts
+U+1F495
+
+Sparkling Heart
+U+1F496
+
+Growing Heart
+U+1F497
+
+Blue Heart
+U+1F499
+
+Green Heart
+U+1F49A
+
+Yellow Heart
+U+1F49B
+
+Orange Heart
+U+1F9E1
+
+Purple Heart
+U+1F49C
+
+Black Heart
+U+1F5A4
+
+Heart with Ribbon
+U+1F49D
+
+Revolving Hearts
+U+1F49E
+
+Heart Decoration
+U+1F49F
+
+Heavy Heart Exclamation
+U+2763
+
+Love Letter
+U+1F48C
+
+Zzz
+U+1F4A4
+
+Anger Symbol
+U+1F4A2
+
+Bomb
+U+1F4A3
+
+Collision
+U+1F4A5
+
+Sweat Droplets
+U+1F4A6
+
+Dashing Away
+U+1F4A8
+
+Dizzy
+U+1F4AB
+
+Speech Balloon
+U+1F4AC
+
+Left Speech Bubble
+U+1F5E8
+
+Right Anger Bubble
+U+1F5EF
+
+Thought Balloon
+U+1F4AD
+
+Hole
+U+1F573
+
+Glasses
+U+1F453
+
+Sunglasses
+U+1F576
+
+Necktie
+U+1F454
+
+T-Shirt
+U+1F455
+
+Jeans
+U+1F456
+
+Scarf
+U+1F9E3
+
+Gloves
+U+1F9E4
+
+Coat
+U+1F9E5
+
+Socks
+U+1F9E6
+
+Dress
+U+1F457
+
+Kimono
+U+1F458
+
+Bikini
+U+1F459
+
+Woman’s Clothes
+U+1F45A
+
+Purse
+U+1F45B
+
+Handbag
+U+1F45C
+
+Clutch Bag
+U+1F45D
+
+Shopping Bags
+U+1F6CD
+
+School Backpack
+U+1F392
+
+Man’s Shoe
+U+1F45E
+
+Running Shoe
+U+1F45F
+
+High-Heeled Shoe
+U+1F460
+
+Woman’s Sandal
+U+1F461
+
+Woman’s Boot
+U+1F462
+
+Crown
+U+1F451
+
+Woman’s Hat
+U+1F452
+
+Top Hat
+U+1F3A9
+
+Graduation Cap
+U+1F393
+
+Billed Cap
+U+1F9E2
+
+Rescue Worker’s Helmet
+U+26D1
+
+Prayer Beads
+U+1F4FF
+
+Lipstick
+U+1F484
+
+Ring
+U+1F48D
+
+Gem Stone
+U+1F48E

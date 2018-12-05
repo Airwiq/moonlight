@@ -1,0 +1,180 @@
+
+Jack-O-Lantern
+U+1F383
+
+Christmas Tree
+U+1F384
+
+Fireworks
+U+1F386
+
+Sparkler
+U+1F387
+
+Sparkles
+U+2728
+
+Balloon
+U+1F388
+
+Party Popper
+U+1F389
+
+Confetti Ball
+U+1F38A
+
+Tanabata Tree
+U+1F38B
+
+Pine Decoration
+U+1F38D
+
+Japanese Dolls
+U+1F38E
+
+Carp Streamer
+U+1F38F
+
+Wind Chime
+U+1F390
+
+Moon Viewing Ceremony
+U+1F391
+
+Ribbon
+U+1F380
+
+Wrapped Gift
+U+1F381
+
+Reminder Ribbon
+U+1F397
+
+Admission Tickets
+U+1F39F
+
+Ticket
+U+1F3AB
+
+Military Medal
+U+1F396
+
+Trophy
+U+1F3C6
+
+Sports Medal
+U+1F3C5
+
+1St Place Medal
+U+1F947
+
+2Nd Place Medal
+U+1F948
+
+3Rd Place Medal
+U+1F949
+
+Soccer Ball
+U+26BD
+
+Baseball
+U+26BE
+
+Basketball
+U+1F3C0
+
+Volleyball
+U+1F3D0
+
+American Football
+U+1F3C8
+
+Rugby Football
+U+1F3C9
+
+Tennis
+U+1F3BE
+
+Pool 8 Ball
+U+1F3B1
+
+Bowling
+U+1F3B3
+
+Cricket
+U+1F3CF
+
+Field Hockey
+U+1F3D1
+
+Ice Hockey
+U+1F3D2
+
+Ping Pong
+U+1F3D3
+
+Badminton
+U+1F3F8
+
+Boxing Glove
+U+1F94A
+
+Martial Arts Uniform
+U+1F94B
+
+Goal Net
+U+1F945
+
+Direct Hit
+U+1F3AF
+
+Flag in Hole
+U+26F3
+
+Ice Skate
+U+26F8
+
+Fishing Pole
+U+1F3A3
+
+Running Shirt
+U+1F3BD
+
+Skis
+U+1F3BF
+
+Sled
+U+1F6F7
+
+Curling Stone
+U+1F94C
+
+Video Game
+U+1F3AE
+
+Joystick
+U+1F579
+
+Game Die
+U+1F3B2
+
+Spade Suit
+U+2660
+
+Heart Suit
+U+2665
+
+Diamond Suit
+U+2666
+
+Club Suit
+U+2663
+
+Joker
+U+1F0CF
+
+Mahjong Red Dragon
+U+1F004
+
+Flower Playing Cards
+U+1F3B4

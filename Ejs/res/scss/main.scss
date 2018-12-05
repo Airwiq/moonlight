@@ -1,0 +1,91 @@
+$xtm-color-base:    #0066aa;
+$xtm-color-bg:      #ffffff;
+$xtm-color-shadow:  #aaaaaa;
+$xtm-color-border:  #aaaaaa;
+$xtm-color-text-0:  #16161d;
+$xtm-color-text-1:  #505050;
+$xtm-color-text-2:  #ff9400;
+$xtm-color-text-3:  #ef0038;
+$xtm-color-text-4:  #669900;
+$xtm-color-icon-1:  #808080;
+$xtm-width-border: 1px;
+$xtm-table-border-1: 1px solid #000000;
+$xtm-border-style: 1px solid $xtm-color-border;
+
+$xtm-size-medium: 32px;
+$s-m: 1em;
+@font-face { 
+    font-family: 'Emojis';
+    src: url('../res/fonts/NotoColorEmoji.ttf') format('truetype'); 
+}
+::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+}
+::-webkit-scrollbar-thumb {
+    background: #888; 
+}
+
+html,body{
+    margin: 0px;
+    width: 100%;
+    height: 100%;
+    font-family: Tahoma;    
+    color: #16161d;
+}
+
+.vw-VBox{
+    display: grid;
+    grid-template-columns: 100%;
+    *{
+        grid-column: 1;
+    }    
+}
+.vw-HBox{
+
+}
+
+.vw-Table{
+    border-collapse: collapse;
+    
+}
+.vw-ImageView{
+    
+}
+
+
+
+.vw-InfoItem{
+    display: grid;
+    grid-template-rows: auto;
+
+}
+
+.vw-AppFrame{
+    width: 100%;
+    height: 100%;
+    display: grid;
+    grid-template-rows: 48px auto;
+    grid-template-columns: 200px 5px auto;
+    .vw-Actionbar{
+        grid-column: 1 / span 3;        
+        background-color: #0066aa;      
+        height: 48px;  
+    }
+    .vw-Navbar{
+        grid-column: 1;        
+        background-color: #ef0038;        
+    }
+    .vw-NavbarWorkbenchSilder{
+        grid-column: 2;
+        cursor: ew-resize;
+        background-color: #16161d;
+    }
+    .vw-Workbench{
+        grid-column: 3;        
+        background-color: #669900;
+    }    
+}

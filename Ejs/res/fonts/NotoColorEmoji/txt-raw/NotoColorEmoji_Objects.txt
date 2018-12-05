@@ -1,0 +1,486 @@
+
+Muted Speaker
+U+1F507
+
+Speaker Low Volume
+U+1F508
+
+Speaker Medium Volume
+U+1F509
+
+Speaker High Volume
+U+1F50A
+
+Loudspeaker
+U+1F4E2
+
+Megaphone
+U+1F4E3
+
+Postal Horn
+U+1F4EF
+
+Bell
+U+1F514
+
+Bell with Slash
+U+1F515
+
+Musical Score
+U+1F3BC
+
+Musical Note
+U+1F3B5
+
+Musical Notes
+U+1F3B6
+
+Studio Microphone
+U+1F399
+
+Level Slider
+U+1F39A
+
+Control Knobs
+U+1F39B
+
+Microphone
+U+1F3A4
+
+Headphone
+U+1F3A7
+
+Radio
+U+1F4FB
+
+Saxophone
+U+1F3B7
+
+Guitar
+U+1F3B8
+
+Musical Keyboard
+U+1F3B9
+
+Trumpet
+U+1F3BA
+
+Violin
+U+1F3BB
+
+Drum
+U+1F941
+
+Mobile Phone
+U+1F4F1
+
+Mobile Phone with Arrow
+U+1F4F2
+
+Telephone
+U+260E
+
+Telephone Receiver
+U+1F4DE
+
+Pager
+U+1F4DF
+
+Fax Machine
+U+1F4E0
+
+Battery
+U+1F50B
+
+Electric Plug
+U+1F50C
+
+Laptop Computer
+U+1F4BB
+
+Desktop Computer
+U+1F5A5
+
+Printer
+U+1F5A8
+
+Keyboard
+U+2328
+
+Computer Mouse
+U+1F5B1
+
+Trackball
+U+1F5B2
+
+Computer Disk
+U+1F4BD
+
+Floppy Disk
+U+1F4BE
+
+Optical Disk
+U+1F4BF
+
+Dvd
+U+1F4C0
+
+Movie Camera
+U+1F3A5
+
+Film Frames
+U+1F39E
+
+Film Projector
+U+1F4FD
+
+Clapper Board
+U+1F3AC
+
+Television
+U+1F4FA
+
+Camera
+U+1F4F7
+
+Camera with Flash
+U+1F4F8
+
+Video Camera
+U+1F4F9
+
+Videocassette
+U+1F4FC
+
+Left-Pointing Magnifying Glass
+U+1F50D
+
+Right-Pointing Magnifying Glass
+U+1F50E
+
+Microscope
+U+1F52C
+
+Telescope
+U+1F52D
+
+Satellite Antenna
+U+1F4E1
+
+Candle
+U+1F56F
+
+Light Bulb
+U+1F4A1
+
+Flashlight
+U+1F526
+
+Red Paper Lantern
+U+1F3EE
+
+Notebook with Decorative Cover
+U+1F4D4
+
+Closed Book
+U+1F4D5
+
+Open Book
+U+1F4D6
+
+Green Book
+U+1F4D7
+
+Blue Book
+U+1F4D8
+
+Orange Book
+U+1F4D9
+
+Books
+U+1F4DA
+
+Notebook
+U+1F4D3
+
+Ledger
+U+1F4D2
+
+Page with Curl
+U+1F4C3
+
+Scroll
+U+1F4DC
+
+Page Facing Up
+U+1F4C4
+
+Newspaper
+U+1F4F0
+
+Rolled-Up Newspaper
+U+1F5DE
+
+Bookmark Tabs
+U+1F4D1
+
+Bookmark
+U+1F516
+
+Label
+U+1F3F7
+
+Money Bag
+U+1F4B0
+
+Yen Banknote
+U+1F4B4
+
+Dollar Banknote
+U+1F4B5
+
+Euro Banknote
+U+1F4B6
+
+Pound Banknote
+U+1F4B7
+
+Money with Wings
+U+1F4B8
+
+Credit Card
+U+1F4B3
+
+Chart Increasing with Yen
+U+1F4B9
+
+Currency Exchange
+U+1F4B1
+
+Heavy Dollar Sign
+U+1F4B2
+
+Envelope
+U+2709
+
+E-Mail
+U+1F4E7
+
+Incoming Envelope
+U+1F4E8
+
+Envelope with Arrow
+U+1F4E9
+
+Outbox Tray
+U+1F4E4
+
+Inbox Tray
+U+1F4E5
+
+Package
+U+1F4E6
+
+Closed Mailbox with Raised Flag
+U+1F4EB
+
+Closed Mailbox with Lowered Flag
+U+1F4EA
+
+Open Mailbox with Raised Flag
+U+1F4EC
+
+Open Mailbox with Lowered Flag
+U+1F4ED
+
+Postbox
+U+1F4EE
+
+Ballot Box with Ballot
+U+1F5F3
+
+Pencil
+U+270F
+
+Black Nib
+U+2712
+
+Fountain Pen
+U+1F58B
+
+Pen
+U+1F58A
+
+Paintbrush
+U+1F58C
+
+Crayon
+U+1F58D
+
+Memo
+U+1F4DD
+
+Briefcase
+U+1F4BC
+
+File Folder
+U+1F4C1
+
+Open File Folder
+U+1F4C2
+
+Card Index Dividers
+U+1F5C2
+
+Calendar
+U+1F4C5
+
+Tear-Off Calendar
+U+1F4C6
+
+Spiral Notepad
+U+1F5D2
+
+Spiral Calendar
+U+1F5D3
+
+Card Index
+U+1F4C7
+
+Chart Increasing
+U+1F4C8
+
+Chart Decreasing
+U+1F4C9
+
+Bar Chart
+U+1F4CA
+
+Clipboard
+U+1F4CB
+
+Pushpin
+U+1F4CC
+
+Round Pushpin
+U+1F4CD
+
+Paperclip
+U+1F4CE
+
+Linked Paperclips
+U+1F587
+
+Straight Ruler
+U+1F4CF
+
+Triangular Ruler
+U+1F4D0
+
+Scissors
+U+2702
+
+Card File Box
+U+1F5C3
+
+File Cabinet
+U+1F5C4
+
+Wastebasket
+U+1F5D1
+
+Locked
+U+1F512
+
+Unlocked
+U+1F513
+
+Locked with Pen
+U+1F50F
+
+Locked with Key
+U+1F510
+
+Key
+U+1F511
+
+Old Key
+U+1F5DD
+
+Hammer
+U+1F528
+
+Pick
+U+26CF
+
+Hammer and Pick
+U+2692
+
+Hammer and Wrench
+U+1F6E0
+
+Dagger
+U+1F5E1
+
+Crossed Swords
+U+2694
+
+Pistol
+U+1F52B
+
+Bow and Arrow
+U+1F3F9
+
+Shield
+U+1F6E1
+
+Wrench
+U+1F527
+
+Nut and Bolt
+U+1F529
+
+Gear
+U+2699
+
+Clamp
+U+1F5DC
+
+Alembic
+U+2697
+
+Balance Scale
+U+2696
+
+Link
+U+1F517
+
+Chains
+U+26D3
+
+Syringe
+U+1F489
+
+Pill
+U+1F48A
+
+Cigarette
+U+1F6AC
+
+Coffin
+U+26B0
+
+Funeral Urn
+U+26B1
+
+Moai
+U+1F5FF
+
+Oil Drum
+U+1F6E2
+
+Crystal Ball
+U+1F52E
+
+Shopping Cart
+U+1F6D2

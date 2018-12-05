@@ -1,0 +1,306 @@
+
+Grapes
+U+1F347
+
+Melon
+U+1F348
+
+Watermelon
+U+1F349
+
+Tangerine
+U+1F34A
+
+Lemon
+U+1F34B
+
+Banana
+U+1F34C
+
+Pineapple
+U+1F34D
+
+Red Apple
+U+1F34E
+
+Green Apple
+U+1F34F
+
+Pear
+U+1F350
+
+Peach
+U+1F351
+
+Cherries
+U+1F352
+
+Strawberry
+U+1F353
+
+Kiwi Fruit
+U+1F95D
+
+Tomato
+U+1F345
+
+Coconut
+U+1F965
+
+Avocado
+U+1F951
+
+Eggplant
+U+1F346
+
+Potato
+U+1F954
+
+Carrot
+U+1F955
+
+Ear of Corn
+U+1F33D
+
+Hot Pepper
+U+1F336
+
+Cucumber
+U+1F952
+
+Broccoli
+U+1F966
+
+Mushroom
+U+1F344
+
+Peanuts
+U+1F95C
+
+Chestnut
+U+1F330
+
+Bread
+U+1F35E
+
+Croissant
+U+1F950
+
+Baguette Bread
+U+1F956
+
+Pretzel
+U+1F968
+
+Pancakes
+U+1F95E
+
+Cheese Wedge
+U+1F9C0
+
+Meat On Bone
+U+1F356
+
+Poultry Leg
+U+1F357
+
+Cut of Meat
+U+1F969
+
+Bacon
+U+1F953
+
+Hamburger
+U+1F354
+
+French Fries
+U+1F35F
+
+Pizza
+U+1F355
+
+Hot Dog
+U+1F32D
+
+Sandwich
+U+1F96A
+
+Taco
+U+1F32E
+
+Burrito
+U+1F32F
+
+Stuffed Flatbread
+U+1F959
+
+Egg
+U+1F95A
+
+Cooking
+U+1F373
+
+Shallow Pan of Food
+U+1F958
+
+Pot of Food
+U+1F372
+
+Bowl with Spoon
+U+1F963
+
+Green Salad
+U+1F957
+
+Popcorn
+U+1F37F
+
+Canned Food
+U+1F96B
+
+Bento Box
+U+1F371
+
+Rice Cracker
+U+1F358
+
+Rice Ball
+U+1F359
+
+Cooked Rice
+U+1F35A
+
+Curry Rice
+U+1F35B
+
+Steaming Bowl
+U+1F35C
+
+Spaghetti
+U+1F35D
+
+Roasted Sweet Potato
+U+1F360
+
+Oden
+U+1F362
+
+Sushi
+U+1F363
+
+Fried Shrimp
+U+1F364
+
+Fish Cake with Swirl
+U+1F365
+
+Dango
+U+1F361
+
+Dumpling
+U+1F95F
+
+Fortune Cookie
+U+1F960
+
+Takeout Box
+U+1F961
+
+Soft Ice Cream
+U+1F366
+
+Shaved Ice
+U+1F367
+
+Ice Cream
+U+1F368
+
+Doughnut
+U+1F369
+
+Cookie
+U+1F36A
+
+Birthday Cake
+U+1F382
+
+Shortcake
+U+1F370
+
+Pie
+U+1F967
+
+Chocolate Bar
+U+1F36B
+
+Candy
+U+1F36C
+
+Lollipop
+U+1F36D
+
+Custard
+U+1F36E
+
+Honey Pot
+U+1F36F
+
+Baby Bottle
+U+1F37C
+
+Glass of Milk
+U+1F95B
+
+Hot Beverage
+U+2615
+
+Teacup Without Handle
+U+1F375
+
+Sake
+U+1F376
+
+Bottle with Popping Cork
+U+1F37E
+
+Wine Glass
+U+1F377
+
+Cocktail Glass
+U+1F378
+
+Tropical Drink
+U+1F379
+
+Beer Mug
+U+1F37A
+
+Clinking Beer Mugs
+U+1F37B
+
+Clinking Glasses
+U+1F942
+
+Tumbler Glass
+U+1F943
+
+Cup with Straw
+U+1F964
+
+Chopsticks
+U+1F962
+
+Fork and Knife with Plate
+U+1F37D
+
+Fork and Knife
+U+1F374
+
+Spoon
+U+1F944
+
+Kitchen Knife
+U+1F52A
+
+Amphora
+U+1F3FA

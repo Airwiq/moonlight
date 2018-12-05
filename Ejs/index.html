@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>Sandbox</title>
+    <link rel="stylesheet" href="res/css/main.css">
+
+    <script src="src/ui/basic/View.js"></script>
+    <script src="src/ui/UiMain.js"></script>
+    <script src="src/ui/basic/DomElements.js"></script>
+</head>
+
+<body>
+</body>
+
+<script>
+    var app = new AppFrame('ui-main');
+    var NavbarMenu = null;
+    app.getNavbar().addItems([
+        new Details('nb-open-editors', 'Details', [
+            (function () {
+                let tbl = new Table(null, [
+                    new TableRow([
+                        new TableHead('Head 1'),
+                        new TableHead('Head 2'),
+                    ]),
+                    new TableRow([
+                        new TableCell('a'),
+                        new TableCell('b'),
+                    ])
+                ]);
+                return tbl;
+            }())
+        ]),        
+    ]
+    );
+    document.body.appendChild(app.NODE);    
+</script>
+
+</html>

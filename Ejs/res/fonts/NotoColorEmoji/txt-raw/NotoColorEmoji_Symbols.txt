@@ -1,0 +1,615 @@
+
+ATM Sign
+U+1F3E7
+
+Litter in Bin Sign
+U+1F6AE
+
+Potable Water
+U+1F6B0
+
+Wheelchair Symbol
+U+267F
+
+Men’s Room
+U+1F6B9
+
+Women’s Room
+U+1F6BA
+
+Restroom
+U+1F6BB
+
+Baby Symbol
+U+1F6BC
+
+Water Closet
+U+1F6BE
+
+Passport Control
+U+1F6C2
+
+Customs
+U+1F6C3
+
+Baggage Claim
+U+1F6C4
+
+Left Luggage
+U+1F6C5
+
+Warning
+U+26A0
+
+Children Crossing
+U+1F6B8
+
+No Entry
+U+26D4
+
+Prohibited
+U+1F6AB
+
+No Bicycles
+U+1F6B3
+
+No Smoking
+U+1F6AD
+
+No Littering
+U+1F6AF
+
+Non-Potable Water
+U+1F6B1
+
+No Pedestrians
+U+1F6B7
+
+No Mobile Phones
+U+1F4F5
+
+No One Under Eighteen
+U+1F51E
+
+Radioactive
+U+2622
+
+Biohazard
+U+2623
+
+Up Arrow
+U+2B06
+
+Up-Right Arrow
+U+2197
+
+Right Arrow
+U+27A1
+
+Down-Right Arrow
+U+2198
+
+Down Arrow
+U+2B07
+
+Down-Left Arrow
+U+2199
+
+Left Arrow
+U+2B05
+
+Up-Left Arrow
+U+2196
+
+Up-Down Arrow
+U+2195
+
+Left-Right Arrow
+U+2194
+
+Right Arrow Curving Left
+U+21A9
+
+Left Arrow Curving Right
+U+21AA
+
+Right Arrow Curving Up
+U+2934
+
+Right Arrow Curving Down
+U+2935
+
+Clockwise Vertical Arrows
+U+1F503
+
+Anticlockwise Arrows Button
+U+1F504
+
+BACK Arrow
+U+1F519
+
+END Arrow
+U+1F51A
+
+ON! Arrow
+U+1F51B
+
+SOON Arrow
+U+1F51C
+
+TOP Arrow
+U+1F51D
+
+Place of Worship
+U+1F6D0
+
+Atom Symbol
+U+269B
+
+Om
+U+1F549
+
+Star of David
+U+2721
+
+Wheel of Dharma
+U+2638
+
+Yin Yang
+U+262F
+
+Latin Cross
+U+271D
+
+Orthodox Cross
+U+2626
+
+Star and Crescent
+U+262A
+
+Peace Symbol
+U+262E
+
+Menorah
+U+1F54E
+
+Dotted Six-Pointed Star
+U+1F52F
+
+Aries
+U+2648
+
+Taurus
+U+2649
+
+Gemini
+U+264A
+
+Cancer
+U+264B
+
+Leo
+U+264C
+
+Virgo
+U+264D
+
+Libra
+U+264E
+
+Scorpius
+U+264F
+
+Sagittarius
+U+2650
+
+Capricorn
+U+2651
+
+Aquarius
+U+2652
+
+Pisces
+U+2653
+
+Ophiuchus
+U+26CE
+
+Shuffle Tracks Button
+U+1F500
+
+Repeat Button
+U+1F501
+
+Repeat Single Button
+U+1F502
+
+Play Button
+U+25B6
+
+Fast-Forward Button
+U+23E9
+
+Next Track Button
+U+23ED
+
+Play Or Pause Button
+U+23EF
+
+Reverse Button
+U+25C0
+
+Fast Reverse Button
+U+23EA
+
+Last Track Button
+U+23EE
+
+Up Button
+U+1F53C
+
+Fast Up Button
+U+23EB
+
+Down Button
+U+1F53D
+
+Fast Down Button
+U+23EC
+
+Pause Button
+U+23F8
+
+Stop Button
+U+23F9
+
+Record Button
+U+23FA
+
+Eject Button
+U+23CF
+
+Cinema
+U+1F3A6
+
+Dim Button
+U+1F505
+
+Bright Button
+U+1F506
+
+Antenna Bars
+U+1F4F6
+
+Vibration Mode
+U+1F4F3
+
+Mobile Phone Off
+U+1F4F4
+
+Female Sign
+U+2640
+
+Male Sign
+U+2642
+
+Medical Symbol
+U+2695
+
+Recycling Symbol
+U+267B
+
+Fleur-De-Lis
+U+269C
+
+Trident Emblem
+U+1F531
+
+Name Badge
+U+1F4DB
+
+Japanese Symbol for Beginner
+U+1F530
+
+Heavy Large Circle
+U+2B55
+
+White Heavy Check Mark
+U+2705
+
+Ballot Box with Check
+U+2611
+
+Heavy Check Mark
+U+2714
+
+Heavy Multiplication X
+U+2716
+
+Cross Mark
+U+274C
+
+Cross Mark Button
+U+274E
+
+Heavy Plus Sign
+U+2795
+
+Heavy Minus Sign
+U+2796
+
+Heavy Division Sign
+U+2797
+
+Curly Loop
+U+27B0
+
+Double Curly Loop
+U+27BF
+
+Part Alternation Mark
+U+303D
+
+Eight-Spoked Asterisk
+U+2733
+
+Eight-Pointed Star
+U+2734
+
+Sparkle
+U+2747
+
+Double Exclamation Mark
+U+203C
+
+Exclamation Question Mark
+U+2049
+
+Question Mark
+U+2753
+
+White Question Mark
+U+2754
+
+White Exclamation Mark
+U+2755
+
+Exclamation Mark
+U+2757
+
+Wavy Dash
+U+3030
+
+Copyright
+U+A9
+
+Registered
+U+AE
+
+Trade Mark
+U+2122
+
+Keycap: \X{23}
+U+23 U+20E3
+
+Keycap: *
+U+2A U+20E3
+
+Keycap: 0
+U+30 U+20E3
+
+Keycap: 1
+U+31 U+20E3
+
+Keycap: 2
+U+32 U+20E3
+
+Keycap: 3
+U+33 U+20E3
+
+Keycap: 4
+U+34 U+20E3
+
+Keycap: 5
+U+35 U+20E3
+
+Keycap: 6
+U+36 U+20E3
+
+Keycap: 7
+U+37 U+20E3
+
+Keycap: 8
+U+38 U+20E3
+
+Keycap: 9
+U+39 U+20E3
+
+Keycap 10
+U+1F51F
+
+Hundred Points
+U+1F4AF
+
+Input Latin Uppercase
+U+1F520
+
+Input Latin Lowercase
+U+1F521
+
+Input Numbers
+U+1F522
+
+Input Symbols
+U+1F523
+
+Input Latin Letters
+U+1F524
+
+A Button (blood type)
+U+1F170
+
+AB Button (blood type)
+U+1F18E
+
+B Button (blood type)
+U+1F171
+
+CL Button
+U+1F191
+
+COOL Button
+U+1F192
+
+FREE Button
+U+1F193
+
+Information
+U+2139
+
+ID Button
+U+1F194
+
+Circled M
+U+24C2
+
+NEW Button
+U+1F195
+
+NG Button
+U+1F196
+
+O Button (blood type)
+U+1F17E
+
+OK Button
+U+1F197
+
+P Button
+U+1F17F
+
+SOS Button
+U+1F198
+
+UP! Button
+U+1F199
+
+VS Button
+U+1F19A
+
+Japanese “Here” Button
+U+1F201
+
+Japanese “Service Charge” Button
+U+1F202
+
+Japanese “Monthly Amount” Button
+U+1F237
+
+Japanese “Not Free of Charge” Button
+U+1F236
+
+Japanese “Reserved” Button
+U+1F22F
+
+Japanese “Bargain” Button
+U+1F250
+
+Japanese “Discount” Button
+U+1F239
+
+Japanese “Free of Charge” Button
+U+1F21A
+
+Japanese “Prohibited” Button
+U+1F232
+
+Japanese “Acceptable” Button
+U+1F251
+
+Japanese “Application” Button
+U+1F238
+
+Japanese “Passing Grade” Button
+U+1F234
+
+Japanese “Vacancy” Button
+U+1F233
+
+Japanese “Congratulations” Button
+U+3297
+
+Japanese “Secret” Button
+U+3299
+
+Japanese “Open for Business” Button
+U+1F23A
+
+Japanese “No Vacancy” Button
+U+1F235
+
+Black Small Square
+U+25AA
+
+White Small Square
+U+25AB
+
+White Medium Square
+U+25FB
+
+Black Medium Square
+U+25FC
+
+White Medium-Small Square
+U+25FD
+
+Black Medium-Small Square
+U+25FE
+
+Black Large Square
+U+2B1B
+
+White Large Square
+U+2B1C
+
+Large Orange Diamond
+U+1F536
+
+Large Blue Diamond
+U+1F537
+
+Small Orange Diamond
+U+1F538
+
+Small Blue Diamond
+U+1F539
+
+Red Triangle Pointed Up
+U+1F53A
+
+Red Triangle Pointed Down
+U+1F53B
+
+Diamond with a Dot
+U+1F4A0
+
+Radio Button
+U+1F518
+
+Black Square Button
+U+1F532
+
+White Square Button
+U+1F533
+
+White Circle
+U+26AA
+
+Black Circle
+U+26AB
+
+Red Circle
+U+1F534
+
+Blue Circle
+U+1F535

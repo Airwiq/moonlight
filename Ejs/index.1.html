@@ -1,0 +1,245 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>Wrapper</title>
+    <link rel="stylesheet" href="res/css/main.css">
+
+    <script src="src/ui/basic/View.js"></script>
+    <!--script src="src/ui/UiMain.js"></script>
+    <script src="src/ui/basic/DomElements.js"></script-->
+</head>
+
+<body>
+    <pre id=PRT></pre>
+</body>
+
+<script>
+    //var app = new AppFrame('ui-main');    
+    //app.getNavbar().appendItem(
+    //    new Details('nb-open-editors', 'EDITORS', [
+    //        (function () {
+    //            let tbl = new Table(null, [
+    //                new TableRow([
+    //                    new TableHead('Head 1'),
+    //                    new TableHead('Head 2'),
+    //                ]),
+    //                new TableRow([
+    //                    new TableCell('a'),
+    //                    new TableCell('b'),
+    //                ])
+    //            ]);
+    //            tbl.setTag('vw-s-border-simple');
+    //            tbl.setTag('vw-s-fill-width');
+    //            return tbl;
+    //        }())
+    //    ])
+    //);
+    //app.render();
+    if (true) {
+        var FXs = [
+            "accessKey",
+            "addEventListener()",
+            "appendChild()",
+            "attributes",
+            "blur()",
+            "childElementCount",
+            "childNodes",
+            "children",
+            "classList",
+            "className",
+            "click()",
+            "clientHeight",
+            "clientLeft",
+            "clientTop",
+            "clientWidth",
+            "cloneNode()",
+            "compareDocumentPosition()",
+            "contains()",
+            "contentEditable",
+            "dir",
+            "exitFullscreen()",
+            "firstChild",
+            "firstElementChild",
+            "focus()",
+            "getAttribute()",
+            "getAttributeNode()",
+            "getBoundingClientRect()",
+            "getElementsByClassName()",
+            "getElementsByTagName()",
+            "hasAttribute()",
+            "hasAttributes()",
+            "hasChildNodes()",
+            "id",
+            "innerHTML",
+            "innerText",
+            "insertAdjacentElement()",
+            "insertAdjacentHTML()",
+            "insertAdjacentText()",
+            "insertBefore()",
+            "isContentEditable",
+            "isDefaultNamespace()",
+            "isEqualNode()",
+            "isSameNode()",
+            "isSupported()",
+            "lang",
+            "lastChild",
+            "lastElementChild",
+            "namespaceURI",
+            "nextSibling",
+            "nextElementSibling",
+            "nodeName",
+            "nodeType",
+            "nodeValue",
+            "normalize()",
+            "offsetHeight",
+            "offsetWidth",
+            "offsetLeft",
+            "offsetParent",
+            "offsetTop",
+            "ownerDocument",
+            "parentNode",
+            "parentElement",
+            "previousSibling",
+            "previousElementSibling",
+            "querySelector()",
+            "querySelectorAll()",
+            "removeAttribute()",
+            "removeAttributeNode()",
+            "removeChild()",
+            "removeEventListener()",
+            "replaceChild()",
+            "requestFullscreen()",
+            "scrollHeight",
+            "scrollIntoView()",
+            "scrollLeft",
+            "scrollTop",
+            "scrollWidth",
+            "setAttribute()",
+            "setAttributeNode()",
+            "style",
+            "tabIndex",
+            "tagName",
+            "textContent",
+            "title",
+            "toString()"
+        ];
+        var evts = [
+            'abort',
+            'afterprint',
+            'animationend',
+            'animationiteration',
+            'animationstart',
+            'beforeprint',
+            'beforeunload',
+            'blur',
+            'canplay',
+            'canplaythrough',
+            'change',
+            'click',
+            'contextmenu',
+            'copy',
+            'cut',
+            'dblclick',
+            'drag',
+            'dragend',
+            'dragenter',
+            'dragleave',
+            'dragover',
+            'dragstart',
+            'drop',
+            'durationchange',
+            'ended',
+            'error',
+            'focus',
+            'focusin',
+            'focusout',
+            'fullscreenchange',
+            'fullscreenerror',
+            'hashchange',
+            'input',
+            'invalid',
+            'keydown',
+            'keypress',
+            'keyup',
+            'load',
+            'loadeddata',
+            'loadedmetadata',
+            'loadstart',
+            'message',
+            'mousedown',
+            'mouseenter',
+            'mouseleave',
+            'mousemove',
+            'mouseover',
+            'mouseout',
+            'mouseup',
+            'mousewheel',
+            'offline',
+            'online',
+            'open',
+            'pagehide',
+            'pageshow',
+            'paste',
+            'pause',
+            'play',
+            'playing',
+            'popstate',
+            'progress',
+            'ratechange',
+            'resize',
+            'reset',
+            'scroll',
+            'search',
+            'seeked',
+            'seeking',
+            'select',
+            'show',
+            'stalled',
+            'storage',
+            'submit',
+            'suspend',
+            'timeupdate',
+            'toggle',
+            'touchcancel',
+            'touchend',
+            'touchmove',
+            'touchstart',
+            'transitionend',
+            'unload',
+            'volumechange',
+            'waiting',
+            'wheel',
+        ]
+        let el = 'this._EL';
+        var PROTO = evts;/* FXs.sort((a, b) => {
+            let A = a.endsWith("()") ? 1 : 0;
+            let B = b.endsWith("()") ? 1 : 0;
+            return B - A;
+        }); */
+        var attr = true;
+        for (let i = 0, fx; fx = PROTO[i]; i++) {
+            if (fx.endsWith("()")) {
+                fx = fx.replace('()', '');
+                PRT.innerText += `${fx}(){return ${el}.${fx}.apply(${el},arguments);}\n`;
+            } else {
+                if (attr) {
+                    PRT.innerText += '\n';
+                    attr = false;
+                }
+                PRT.innerText += `set on${fx} (v) {${el}.on${fx} = v;}\nget on${fx} () {return ${el}.on${fx};}\n`;
+            }
+        }
+    };
+    //var x = new View('input');
+    ////x.setAttribute('type','button');
+    ////x.setAttribute('type','button');
+    //x.setAttribute('type','button');
+    //document.body.appendChild(x._EL);
+   //var n = document.createElement('input');
+   //n.__proto__.setAttribute.call(n,'type','button');
+   //document.body.appendChild(n);
+
+</script>
+
+</html>

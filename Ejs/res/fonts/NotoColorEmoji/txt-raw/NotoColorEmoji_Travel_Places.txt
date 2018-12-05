@@ -1,0 +1,621 @@
+
+Globe Showing Europe-Africa
+U+1F30D
+
+Globe Showing Americas
+U+1F30E
+
+Globe Showing Asia-Australia
+U+1F30F
+
+Globe with Meridians
+U+1F310
+
+World Map
+U+1F5FA
+
+Map of Japan
+U+1F5FE
+
+Snow-Capped Mountain
+U+1F3D4
+
+Mountain
+U+26F0
+
+Volcano
+U+1F30B
+
+Mount Fuji
+U+1F5FB
+
+Camping
+U+1F3D5
+
+Beach with Umbrella
+U+1F3D6
+
+Desert
+U+1F3DC
+
+Desert Island
+U+1F3DD
+
+National Park
+U+1F3DE
+
+Stadium
+U+1F3DF
+
+Classical Building
+U+1F3DB
+
+Building Construction
+U+1F3D7
+
+House
+U+1F3D8
+
+Cityscape
+U+1F3D9
+
+Derelict House
+U+1F3DA
+
+House
+U+1F3E0
+
+House with Garden
+U+1F3E1
+
+Office Building
+U+1F3E2
+
+Japanese Post Office
+U+1F3E3
+
+Post Office
+U+1F3E4
+
+Hospital
+U+1F3E5
+
+Bank
+U+1F3E6
+
+Hotel
+U+1F3E8
+
+Love Hotel
+U+1F3E9
+
+Convenience Store
+U+1F3EA
+
+School
+U+1F3EB
+
+Department Store
+U+1F3EC
+
+Factory
+U+1F3ED
+
+Japanese Castle
+U+1F3EF
+
+Castle
+U+1F3F0
+
+Wedding
+U+1F492
+
+Tokyo Tower
+U+1F5FC
+
+Statue of Liberty
+U+1F5FD
+
+Church
+U+26EA
+
+Mosque
+U+1F54C
+
+Synagogue
+U+1F54D
+
+Shinto Shrine
+U+26E9
+
+Kaaba
+U+1F54B
+
+Fountain
+U+26F2
+
+Tent
+U+26FA
+
+Foggy
+U+1F301
+
+Night with Stars
+U+1F303
+
+Sunrise Over Mountains
+U+1F304
+
+Sunrise
+U+1F305
+
+Cityscape At Dusk
+U+1F306
+
+Sunset
+U+1F307
+
+Bridge At Night
+U+1F309
+
+Hot Springs
+U+2668
+
+Milky Way
+U+1F30C
+
+Carousel Horse
+U+1F3A0
+
+Ferris Wheel
+U+1F3A1
+
+Roller Coaster
+U+1F3A2
+
+Barber Pole
+U+1F488
+
+Circus Tent
+U+1F3AA
+
+Performing Arts
+U+1F3AD
+
+Framed Picture
+U+1F5BC
+
+Artist Palette
+U+1F3A8
+
+Slot Machine
+U+1F3B0
+
+Locomotive
+U+1F682
+
+Railway Car
+U+1F683
+
+High-Speed Train
+U+1F684
+
+High-Speed Train with Bullet Nose
+U+1F685
+
+Train
+U+1F686
+
+Metro
+U+1F687
+
+Light Rail
+U+1F688
+
+Station
+U+1F689
+
+Tram
+U+1F68A
+
+Monorail
+U+1F69D
+
+Mountain Railway
+U+1F69E
+
+Tram Car
+U+1F68B
+
+Bus
+U+1F68C
+
+Oncoming Bus
+U+1F68D
+
+Trolleybus
+U+1F68E
+
+Minibus
+U+1F690
+
+Ambulance
+U+1F691
+
+Fire Engine
+U+1F692
+
+Police Car
+U+1F693
+
+Oncoming Police Car
+U+1F694
+
+Taxi
+U+1F695
+
+Oncoming Taxi
+U+1F696
+
+Automobile
+U+1F697
+
+Oncoming Automobile
+U+1F698
+
+Sport Utility Vehicle
+U+1F699
+
+Delivery Truck
+U+1F69A
+
+Articulated Lorry
+U+1F69B
+
+Tractor
+U+1F69C
+
+Bicycle
+U+1F6B2
+
+Kick Scooter
+U+1F6F4
+
+Motor Scooter
+U+1F6F5
+
+Bus Stop
+U+1F68F
+
+Motorway
+U+1F6E3
+
+Railway Track
+U+1F6E4
+
+Fuel Pump
+U+26FD
+
+Police Car Light
+U+1F6A8
+
+Horizontal Traffic Light
+U+1F6A5
+
+Vertical Traffic Light
+U+1F6A6
+
+Construction
+U+1F6A7
+
+Stop Sign
+U+1F6D1
+
+Anchor
+U+2693
+
+Sailboat
+U+26F5
+
+Canoe
+U+1F6F6
+
+Speedboat
+U+1F6A4
+
+Passenger Ship
+U+1F6F3
+
+Ferry
+U+26F4
+
+Motor Boat
+U+1F6E5
+
+Ship
+U+1F6A2
+
+Airplane
+U+2708
+
+Small Airplane
+U+1F6E9
+
+Airplane Departure
+U+1F6EB
+
+Airplane Arrival
+U+1F6EC
+
+Seat
+U+1F4BA
+
+Helicopter
+U+1F681
+
+Suspension Railway
+U+1F69F
+
+Mountain Cableway
+U+1F6A0
+
+Aerial Tramway
+U+1F6A1
+
+Satellite
+U+1F6F0
+
+Rocket
+U+1F680
+
+Flying Saucer
+U+1F6F8
+
+Bellhop Bell
+U+1F6CE
+
+Door
+U+1F6AA
+
+Bed
+U+1F6CF
+
+Couch and Lamp
+U+1F6CB
+
+Toilet
+U+1F6BD
+
+Shower
+U+1F6BF
+
+Bathtub
+U+1F6C1
+
+Hourglass
+U+231B
+
+Hourglass with Flowing Sand
+U+23F3
+
+Watch
+U+231A
+
+Alarm Clock
+U+23F0
+
+Stopwatch
+U+23F1
+
+Timer Clock
+U+23F2
+
+Mantelpiece Clock
+U+1F570
+
+Twelve O’Clock
+U+1F55B
+
+Twelve-Thirty
+U+1F567
+
+One O’Clock
+U+1F550
+
+One-Thirty
+U+1F55C
+
+Two O’Clock
+U+1F551
+
+Two-Thirty
+U+1F55D
+
+Three O’Clock
+U+1F552
+
+Three-Thirty
+U+1F55E
+
+Four O’Clock
+U+1F553
+
+Four-Thirty
+U+1F55F
+
+Five O’Clock
+U+1F554
+
+Five-Thirty
+U+1F560
+
+Six O’Clock
+U+1F555
+
+Six-Thirty
+U+1F561
+
+Seven O’Clock
+U+1F556
+
+Seven-Thirty
+U+1F562
+
+Eight O’Clock
+U+1F557
+
+Eight-Thirty
+U+1F563
+
+Nine O’Clock
+U+1F558
+
+Nine-Thirty
+U+1F564
+
+Ten O’Clock
+U+1F559
+
+Ten-Thirty
+U+1F565
+
+Eleven O’Clock
+U+1F55A
+
+Eleven-Thirty
+U+1F566
+
+New Moon
+U+1F311
+
+Waxing Crescent Moon
+U+1F312
+
+First Quarter Moon
+U+1F313
+
+Waxing Gibbous Moon
+U+1F314
+
+Full Moon
+U+1F315
+
+Waning Gibbous Moon
+U+1F316
+
+Last Quarter Moon
+U+1F317
+
+Waning Crescent Moon
+U+1F318
+
+Crescent Moon
+U+1F319
+
+New Moon Face
+U+1F31A
+
+First Quarter Moon with Face
+U+1F31B
+
+Last Quarter Moon with Face
+U+1F31C
+
+Thermometer
+U+1F321
+
+Sun
+U+2600
+
+Full Moon with Face
+U+1F31D
+
+Sun with Face
+U+1F31E
+
+White Medium Star
+U+2B50
+
+Glowing Star
+U+1F31F
+
+Shooting Star
+U+1F320
+
+Cloud
+U+2601
+
+Sun Behind Cloud
+U+26C5
+
+Cloud with Lightning and Rain
+U+26C8
+
+Sun Behind Small Cloud
+U+1F324
+
+Sun Behind Large Cloud
+U+1F325
+
+Sun Behind Rain Cloud
+U+1F326
+
+Cloud with Rain
+U+1F327
+
+Cloud with Snow
+U+1F328
+
+Cloud with Lightning
+U+1F329
+
+Tornado
+U+1F32A
+
+Fog
+U+1F32B
+
+Wind Face
+U+1F32C
+
+Cyclone
+U+1F300
+
+Rainbow
+U+1F308
+
+Closed Umbrella
+U+1F302
+
+Umbrella
+U+2602
+
+Umbrella with Rain Drops
+U+2614
+
+Umbrella On Ground
+U+26F1
+
+High Voltage
+U+26A1
+
+Snowflake
+U+2744
+
+Snowman
+U+2603
+
+Snowman Without Snow
+U+26C4
+
+Comet
+U+2604
+
+Fire
+U+1F525
+
+Droplet
+U+1F4A7
+
+Water Wave
+U+1F30A

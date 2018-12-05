@@ -1,0 +1,44 @@
+https://github.com/electron-userland/electron-packager
+
+SQLite:
+By far the easiest way to use SQLite with electron is with electron-builder.
+
+First, add a postinstall step in your package.json:
+
+"scripts": {
+   "postinstall": "install-app-deps"
+   ...
+}
+and then install the necessary dependencies and build:
+
+npm install --save-dev electron-builder
+npm install --save sqlite3
+npm run postinstall
+electron-builder will build the native module for your platform, with the correct name for the Electron binding; and you can then require it in code as normal.
+
+Using SQLite3
+Now lets see a small example of how to use SQLite3, first we need to import sqlite3 module:
+
+const sqlite3 = require('sqlite3');
+Then create a Database object to connect to an in-memory database:
+
+var db = new sqlite3.Database(':memory:');
+You can also use a file based database by specifying the path to a file instead:
+
+var db = new sqlite3.Database('/path/to/database/file.db');
+Next lets create a table and insert some values ,query them then print the result on the console:
+
+db.serialize(function () {
+  db.run("CREATE TABLE Products (name, barcode, quantity)");
+
+  db.run("INSERT INTO Products VALUES (?, ?, ?)", ['product001', 'xxxxx', 20]);
+  db.run("INSERT INTO Products VALUES (?, ?, ?)", ['product002', 'xxxxx', 40]);
+  db.run("INSERT INTO Products VALUES (?, ?, ?)", ['product003', 'xxxxx', 60]);
+
+  db.each("SELECT * FROM Products", function (err, row) {
+    console.log(row);
+  });
+});
+Finally, after finsihing with our database we can close it with:
+
+db.close();

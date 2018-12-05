@@ -1,0 +1,33 @@
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="../res/css/uimodule.css">
+</head>
+
+<body class="UiModule">
+    <h1>Artifact Edit x</h1>
+    <p id=PX>T</p>
+</body>
+<script>
+    //var { Api } = require('./src/Api');
+    class View {
+        constructor(id) {
+            this.id;
+            this.items = [];
+        }
+        getId() {
+            return this.id;
+        }
+        render() {
+            let div = document.createElement('div');
+            div.setAttribute('id', this.getId());
+            div.innerText = 'Abstract View';
+            return div;
+        }
+    }
+    var n = new View('v1-id');
+    document.body.appendChild(n.render());
+</script>
+
+</html>

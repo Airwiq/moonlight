@@ -1,0 +1,747 @@
+
+Chequered Flag
+U+1F3C1
+
+Triangular Flag
+U+1F6A9
+
+Crossed Flags
+U+1F38C
+
+Black Flag
+U+1F3F4
+
+White Flag
+U+1F3F3
+
+Rainbow Flag
+U+1F3F3 U+200D U+1F308
+
+Ascension Island
+U+1F1E6 U+1F1E8
+
+Andorra
+U+1F1E6 U+1F1E9
+
+United Arab Emirates
+U+1F1E6 U+1F1EA
+
+Afghanistan
+U+1F1E6 U+1F1EB
+
+Antigua & Barbuda
+U+1F1E6 U+1F1EC
+
+Anguilla
+U+1F1E6 U+1F1EE
+
+Albania
+U+1F1E6 U+1F1F1
+
+Armenia
+U+1F1E6 U+1F1F2
+
+Angola
+U+1F1E6 U+1F1F4
+
+Antarctica
+U+1F1E6 U+1F1F6
+
+Argentina
+U+1F1E6 U+1F1F7
+
+American Samoa
+U+1F1E6 U+1F1F8
+
+Austria
+U+1F1E6 U+1F1F9
+
+Australia
+U+1F1E6 U+1F1FA
+
+Aruba
+U+1F1E6 U+1F1FC
+
+Åland Islands
+U+1F1E6 U+1F1FD
+
+Azerbaijan
+U+1F1E6 U+1F1FF
+
+Bosnia & Herzegovina
+U+1F1E7 U+1F1E6
+
+Barbados
+U+1F1E7 U+1F1E7
+
+Bangladesh
+U+1F1E7 U+1F1E9
+
+Belgium
+U+1F1E7 U+1F1EA
+
+Burkina Faso
+U+1F1E7 U+1F1EB
+
+Bulgaria
+U+1F1E7 U+1F1EC
+
+Bahrain
+U+1F1E7 U+1F1ED
+
+Burundi
+U+1F1E7 U+1F1EE
+
+Benin
+U+1F1E7 U+1F1EF
+
+Bermuda
+U+1F1E7 U+1F1F2
+
+Brunei
+U+1F1E7 U+1F1F3
+
+Bolivia
+U+1F1E7 U+1F1F4
+
+Brazil
+U+1F1E7 U+1F1F7
+
+Bahamas
+U+1F1E7 U+1F1F8
+
+Bhutan
+U+1F1E7 U+1F1F9
+
+Bouvet Island
+U+1F1E7 U+1F1FB
+
+Botswana
+U+1F1E7 U+1F1FC
+
+Belarus
+U+1F1E7 U+1F1FE
+
+Belize
+U+1F1E7 U+1F1FF
+
+Canada
+U+1F1E8 U+1F1E6
+
+Cocos (Keeling) Islands
+U+1F1E8 U+1F1E8
+
+Congo - Kinshasa
+U+1F1E8 U+1F1E9
+
+Central African Republic
+U+1F1E8 U+1F1EB
+
+Congo - Brazzaville
+U+1F1E8 U+1F1EC
+
+Switzerland
+U+1F1E8 U+1F1ED
+
+Côte d’Ivoire
+U+1F1E8 U+1F1EE
+
+Cook Islands
+U+1F1E8 U+1F1F0
+
+Chile
+U+1F1E8 U+1F1F1
+
+Cameroon
+U+1F1E8 U+1F1F2
+
+China
+U+1F1E8 U+1F1F3
+
+Colombia
+U+1F1E8 U+1F1F4
+
+Clipperton Island
+U+1F1E8 U+1F1F5
+
+Costa Rica
+U+1F1E8 U+1F1F7
+
+Cuba
+U+1F1E8 U+1F1FA
+
+Cape Verde
+U+1F1E8 U+1F1FB
+
+Curaçao
+U+1F1E8 U+1F1FC
+
+Christmas Island
+U+1F1E8 U+1F1FD
+
+Cyprus
+U+1F1E8 U+1F1FE
+
+Czechia
+U+1F1E8 U+1F1FF
+
+Germany
+U+1F1E9 U+1F1EA
+
+Djibouti
+U+1F1E9 U+1F1EF
+
+Denmark
+U+1F1E9 U+1F1F0
+
+Dominica
+U+1F1E9 U+1F1F2
+
+Dominican Republic
+U+1F1E9 U+1F1F4
+
+Algeria
+U+1F1E9 U+1F1FF
+
+Ecuador
+U+1F1EA U+1F1E8
+
+Estonia
+U+1F1EA U+1F1EA
+
+Egypt
+U+1F1EA U+1F1EC
+
+Eritrea
+U+1F1EA U+1F1F7
+
+Spain
+U+1F1EA U+1F1F8
+
+Ethiopia
+U+1F1EA U+1F1F9
+
+European Union
+U+1F1EA U+1F1FA
+
+Finland
+U+1F1EB U+1F1EE
+
+Fiji
+U+1F1EB U+1F1EF
+
+Micronesia
+U+1F1EB U+1F1F2
+
+Faroe Islands
+U+1F1EB U+1F1F4
+
+France
+U+1F1EB U+1F1F7
+
+Gabon
+U+1F1EC U+1F1E6
+
+United Kingdom
+U+1F1EC U+1F1E7
+
+Grenada
+U+1F1EC U+1F1E9
+
+Georgia
+U+1F1EC U+1F1EA
+
+Guernsey
+U+1F1EC U+1F1EC
+
+Ghana
+U+1F1EC U+1F1ED
+
+Gibraltar
+U+1F1EC U+1F1EE
+
+Greenland
+U+1F1EC U+1F1F1
+
+Gambia
+U+1F1EC U+1F1F2
+
+Guinea
+U+1F1EC U+1F1F3
+
+Equatorial Guinea
+U+1F1EC U+1F1F6
+
+Greece
+U+1F1EC U+1F1F7
+
+Guatemala
+U+1F1EC U+1F1F9
+
+Guam
+U+1F1EC U+1F1FA
+
+Guinea-Bissau
+U+1F1EC U+1F1FC
+
+Guyana
+U+1F1EC U+1F1FE
+
+Hong Kong SAR China
+U+1F1ED U+1F1F0
+
+Heard & McDonald Islands
+U+1F1ED U+1F1F2
+
+Honduras
+U+1F1ED U+1F1F3
+
+Croatia
+U+1F1ED U+1F1F7
+
+Haiti
+U+1F1ED U+1F1F9
+
+Hungary
+U+1F1ED U+1F1FA
+
+Canary Islands
+U+1F1EE U+1F1E8
+
+Indonesia
+U+1F1EE U+1F1E9
+
+Ireland
+U+1F1EE U+1F1EA
+
+Israel
+U+1F1EE U+1F1F1
+
+Isle of Man
+U+1F1EE U+1F1F2
+
+India
+U+1F1EE U+1F1F3
+
+British Indian Ocean Territory
+U+1F1EE U+1F1F4
+
+Iraq
+U+1F1EE U+1F1F6
+
+Iran
+U+1F1EE U+1F1F7
+
+Iceland
+U+1F1EE U+1F1F8
+
+Italy
+U+1F1EE U+1F1F9
+
+Jersey
+U+1F1EF U+1F1EA
+
+Jamaica
+U+1F1EF U+1F1F2
+
+Jordan
+U+1F1EF U+1F1F4
+
+Japan
+U+1F1EF U+1F1F5
+
+Kenya
+U+1F1F0 U+1F1EA
+
+Kyrgyzstan
+U+1F1F0 U+1F1EC
+
+Cambodia
+U+1F1F0 U+1F1ED
+
+Kiribati
+U+1F1F0 U+1F1EE
+
+Comoros
+U+1F1F0 U+1F1F2
+
+St. Kitts & Nevis
+U+1F1F0 U+1F1F3
+
+North Korea
+U+1F1F0 U+1F1F5
+
+South Korea
+U+1F1F0 U+1F1F7
+
+Kuwait
+U+1F1F0 U+1F1FC
+
+Cayman Islands
+U+1F1F0 U+1F1FE
+
+Kazakhstan
+U+1F1F0 U+1F1FF
+
+Laos
+U+1F1F1 U+1F1E6
+
+Lebanon
+U+1F1F1 U+1F1E7
+
+St. Lucia
+U+1F1F1 U+1F1E8
+
+Liechtenstein
+U+1F1F1 U+1F1EE
+
+Sri Lanka
+U+1F1F1 U+1F1F0
+
+Liberia
+U+1F1F1 U+1F1F7
+
+Lesotho
+U+1F1F1 U+1F1F8
+
+Lithuania
+U+1F1F1 U+1F1F9
+
+Luxembourg
+U+1F1F1 U+1F1FA
+
+Latvia
+U+1F1F1 U+1F1FB
+
+Libya
+U+1F1F1 U+1F1FE
+
+Morocco
+U+1F1F2 U+1F1E6
+
+Monaco
+U+1F1F2 U+1F1E8
+
+Moldova
+U+1F1F2 U+1F1E9
+
+Montenegro
+U+1F1F2 U+1F1EA
+
+Madagascar
+U+1F1F2 U+1F1EC
+
+Marshall Islands
+U+1F1F2 U+1F1ED
+
+Macedonia
+U+1F1F2 U+1F1F0
+
+Mali
+U+1F1F2 U+1F1F1
+
+Myanmar (Burma)
+U+1F1F2 U+1F1F2
+
+Mongolia
+U+1F1F2 U+1F1F3
+
+Macau SAR China
+U+1F1F2 U+1F1F4
+
+Northern Mariana Islands
+U+1F1F2 U+1F1F5
+
+Mauritania
+U+1F1F2 U+1F1F7
+
+Montserrat
+U+1F1F2 U+1F1F8
+
+Malta
+U+1F1F2 U+1F1F9
+
+Mauritius
+U+1F1F2 U+1F1FA
+
+Maldives
+U+1F1F2 U+1F1FB
+
+Malawi
+U+1F1F2 U+1F1FC
+
+Mexico
+U+1F1F2 U+1F1FD
+
+Malaysia
+U+1F1F2 U+1F1FE
+
+Mozambique
+U+1F1F2 U+1F1FF
+
+Namibia
+U+1F1F3 U+1F1E6
+
+Niger
+U+1F1F3 U+1F1EA
+
+Norfolk Island
+U+1F1F3 U+1F1EB
+
+Nigeria
+U+1F1F3 U+1F1EC
+
+Nicaragua
+U+1F1F3 U+1F1EE
+
+Netherlands
+U+1F1F3 U+1F1F1
+
+Norway
+U+1F1F3 U+1F1F4
+
+Nepal
+U+1F1F3 U+1F1F5
+
+Nauru
+U+1F1F3 U+1F1F7
+
+Niue
+U+1F1F3 U+1F1FA
+
+New Zealand
+U+1F1F3 U+1F1FF
+
+Oman
+U+1F1F4 U+1F1F2
+
+Panama
+U+1F1F5 U+1F1E6
+
+Peru
+U+1F1F5 U+1F1EA
+
+French Polynesia
+U+1F1F5 U+1F1EB
+
+Papua New Guinea
+U+1F1F5 U+1F1EC
+
+Philippines
+U+1F1F5 U+1F1ED
+
+Pakistan
+U+1F1F5 U+1F1F0
+
+Poland
+U+1F1F5 U+1F1F1
+
+Pitcairn Islands
+U+1F1F5 U+1F1F3
+
+Puerto Rico
+U+1F1F5 U+1F1F7
+
+Palestinian Territories
+U+1F1F5 U+1F1F8
+
+Portugal
+U+1F1F5 U+1F1F9
+
+Palau
+U+1F1F5 U+1F1FC
+
+Paraguay
+U+1F1F5 U+1F1FE
+
+Qatar
+U+1F1F6 U+1F1E6
+
+Romania
+U+1F1F7 U+1F1F4
+
+Serbia
+U+1F1F7 U+1F1F8
+
+Russia
+U+1F1F7 U+1F1FA
+
+Rwanda
+U+1F1F7 U+1F1FC
+
+Saudi Arabia
+U+1F1F8 U+1F1E6
+
+Solomon Islands
+U+1F1F8 U+1F1E7
+
+Seychelles
+U+1F1F8 U+1F1E8
+
+Sudan
+U+1F1F8 U+1F1E9
+
+Sweden
+U+1F1F8 U+1F1EA
+
+Singapore
+U+1F1F8 U+1F1EC
+
+St. Helena
+U+1F1F8 U+1F1ED
+
+Slovenia
+U+1F1F8 U+1F1EE
+
+Svalbard & Jan Mayen
+U+1F1F8 U+1F1EF
+
+Slovakia
+U+1F1F8 U+1F1F0
+
+Sierra Leone
+U+1F1F8 U+1F1F1
+
+San Marino
+U+1F1F8 U+1F1F2
+
+Senegal
+U+1F1F8 U+1F1F3
+
+Somalia
+U+1F1F8 U+1F1F4
+
+Suriname
+U+1F1F8 U+1F1F7
+
+South Sudan
+U+1F1F8 U+1F1F8
+
+São Tomé & Príncipe
+U+1F1F8 U+1F1F9
+
+El Salvador
+U+1F1F8 U+1F1FB
+
+Sint Maarten
+U+1F1F8 U+1F1FD
+
+Syria
+U+1F1F8 U+1F1FE
+
+Swaziland
+U+1F1F8 U+1F1FF
+
+Tristan da Cunha
+U+1F1F9 U+1F1E6
+
+Turks & Caicos Islands
+U+1F1F9 U+1F1E8
+
+Chad
+U+1F1F9 U+1F1E9
+
+Togo
+U+1F1F9 U+1F1EC
+
+Thailand
+U+1F1F9 U+1F1ED
+
+Tajikistan
+U+1F1F9 U+1F1EF
+
+Tokelau
+U+1F1F9 U+1F1F0
+
+Timor-Leste
+U+1F1F9 U+1F1F1
+
+Turkmenistan
+U+1F1F9 U+1F1F2
+
+Tunisia
+U+1F1F9 U+1F1F3
+
+Tonga
+U+1F1F9 U+1F1F4
+
+Turkey
+U+1F1F9 U+1F1F7
+
+Trinidad & Tobago
+U+1F1F9 U+1F1F9
+
+Tuvalu
+U+1F1F9 U+1F1FB
+
+Taiwan
+U+1F1F9 U+1F1FC
+
+Tanzania
+U+1F1F9 U+1F1FF
+
+Ukraine
+U+1F1FA U+1F1E6
+
+Uganda
+U+1F1FA U+1F1EC
+
+U.S. Outlying Islands
+U+1F1FA U+1F1F2
+
+United Nations
+U+1F1FA U+1F1F3
+
+United States
+U+1F1FA U+1F1F8
+
+Uruguay
+U+1F1FA U+1F1FE
+
+Uzbekistan
+U+1F1FA U+1F1FF
+
+Vatican City
+U+1F1FB U+1F1E6
+
+St. Vincent & Grenadines
+U+1F1FB U+1F1E8
+
+Venezuela
+U+1F1FB U+1F1EA
+
+British Virgin Islands
+U+1F1FB U+1F1EC
+
+U.S. Virgin Islands
+U+1F1FB U+1F1EE
+
+Vietnam
+U+1F1FB U+1F1F3
+
+Vanuatu
+U+1F1FB U+1F1FA
+
+Samoa
+U+1F1FC U+1F1F8
+
+Yemen
+U+1F1FE U+1F1EA
+
+South Africa
+U+1F1FF U+1F1E6
+
+Zambia
+U+1F1FF U+1F1F2
+
+Zimbabwe
+U+1F1FF U+1F1FC
+
+England
+U+1F3F4 U+E0067 U+E0062 U+E0065 U+E006E U+E0067 U+E007F
+
+Scotland
+U+1F3F4 U+E0067 U+E0062 U+E0073 U+E0063 U+E0074 U+E007F
+
+Wales
+U+1F3F4 U+E0067 U+E0062 U+E0077 U+E006C U+E0073 U+E007F
