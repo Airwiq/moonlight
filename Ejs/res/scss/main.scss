@@ -92,7 +92,17 @@ html,body{
                 font-weight: 900;
                 background-color: #001533;
             }
+                       
         } 
+        .vw-NavbarBasicEntry{
+            cursor: pointer;            
+            &:hover{
+                background-color: #8095b3;
+            }
+            &[active]{
+                background-color: #003066;                
+            }
+        }
         .vw-NavbarEditorEntry{
             cursor: pointer;            
             &:hover{

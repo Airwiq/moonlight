@@ -18,6 +18,9 @@ class Module{
     getContent(){
         return this.content;
     }
+    getSubModules(){
+        return this.submodules;
+    }
     hasSubModules(){
         return this.submodules.length > 0;
     }

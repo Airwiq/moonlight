@@ -16,8 +16,8 @@
 </body>
 
 <script>
-    var mdl_Mockups = new Module('mdl-mockups',null,'MockUpds',new IFrame('mdl-wb-if','svg-icons.html'),[]);
-    var mdl_Svg = new Module('mdl-svg-icons',null,'SVG-Icons',new IFrame('mdl-wb-if','svg-icons.html'),[]);
+    var mdl_Mockups = new Module('mdl-mockups',null,'MockUpds',new IFrame('mdl-wb-ifa','ui_modules/blkg-mockup.html'),[]);
+    var mdl_Svg = new Module('mdl-svg-icons',null,'SVG-Icons',new IFrame('mdl-wb-ifb','ui_modules/svg-icons.html'),[]);
     var mdl_Sandbox = new Module('mdl-sandbox',null,'Sandbox',null,[
         mdl_Mockups,
         mdl_Svg
@@ -28,13 +28,13 @@
     var root = new Module('mdl-root',null,'',[]);
     var app = new AppFrame('ui-main');
     var NavbarMenu = null;
-    app.getNavbar().addItems([
-
-    ]);
+    app.setModules(mdl_Sandbox);    
     
     document.body.appendChild(app.NODE); 
 
-    //app.openEditor('ed-test-1', 'Document one', new IFrame('mdl-wb-if','svg-icons.html'));   
+    app.openModule(mdl_Svg);   
+    app.openModule(mdl_Mockups);
+    
     //app.openEditor('ed-test-2', 'Testeditor', new View(null,'div'));  
     //app.openEditor('ed-test-3', 'Module_Sys', new View(null,'div'));  
     //app.openEditor('ed-test-1', 'Document one', new IFrame('mdl-wb-if','svg-icons.html'));

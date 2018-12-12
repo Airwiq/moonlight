@@ -29,6 +29,12 @@ class NavbarEditorEntry extends InfoItem{
         this.classList.add('vw-NavbarEditorEntry');        
     }
 }
+class NavbarBasicEntry extends InfoItem{
+    constructor(id,icon,title){
+        super(id,icon,title);
+        this.classList.add('vw-NavbarBasicEntry');        
+    }
+}
 class NavbarWorkbenchSlider extends AppFrameView {
     constructor(frame, id) {
         super(frame, id, 'div', ['vw-NavbarWorkbenchSilder']);
@@ -94,6 +100,33 @@ class AppFrame extends View {
     }
     getWorkbench() {
         return this.views.workbench;
+    }
+    setModules(){
+        let modules = arguments;
+        this.refs.modules = modules;
+        let self = this;
+        function cmdl(mdl){
+            let itms = [];
+            console.log(mdl);
+            if(mdl.hasSubModules()){
+                for(let i = 0, itm; itm = mdl.getSubModules()[i]; i++){
+                    itms.push(cmdl(itm));
+                }
+                return new Details(mdl.id,mdl.title,itms);
+            }else{
+                let el = new NavbarBasicEntry(`${mdl.id}-module-entry`,mdl.icon,mdl.title);
+                el.ondblclick = ()=>self.openEditor(mdl.id,mdl.title,mdl.content);
+                return el;
+            }
+        }
+        console.log(modules);
+        for(let i = 0, el; el = modules[i]; i++){
+            console.log(modules);
+            this.getNavbar().addItem(cmdl(el));
+        }
+    }
+    openModule(mdl){
+        this.openEditor(mdl.id,mdl.title,mdl.content);
     }
     openEditor(id, title, content){
         let display = document.getElementById(this.getNavbar().getAttribute('active-editor'));
