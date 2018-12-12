@@ -12,8 +12,14 @@ $xtm-width-border: 1px;
 $xtm-table-border-1: 1px solid #000000;
 $xtm-border-style: 1px solid $xtm-color-border;
 
-$xtm-size-medium: 32px;
-$s-m: 1em;
+$ml_blue_max : #00b0ff;
+$ml_blue_e0 : #0066aa;
+$ml_blue_min: #000511;
+
+$ml_red_max : #ffb0b0;
+$ml_red_e0 : #cc0000;
+$ml_red_min: #110000;
+
 @font-face { 
     font-family: 'Emojis';
     src: url('../res/fonts/NotoColorEmoji.ttf') format('truetype'); 
@@ -28,19 +34,22 @@ $s-m: 1em;
 ::-webkit-scrollbar-thumb {
     background: #888; 
 }
+*{
+    user-select: none;
+}
 
 html,body{
     margin: 0px;
     width: 100%;
     height: 100%;
     font-family: Tahoma;    
-    color: #16161d;
+    color: #ffffff;
 }
 
 .vw-VBox{
     display: grid;
     grid-template-columns: 100%;
-    *{
+    & > *{
         grid-column: 1;
     }    
 }
@@ -53,7 +62,7 @@ html,body{
     
 }
 .vw-ImageView{
-    
+
 }
 
 
@@ -72,20 +81,46 @@ html,body{
     grid-template-columns: 200px 5px auto;
     .vw-Actionbar{
         grid-column: 1 / span 3;        
-        background-color: #0066aa;      
-        height: 48px;  
+        background-color: #000511;      
+        height: 48px;          
     }
     .vw-Navbar{
         grid-column: 1;        
-        background-color: #ef0038;        
+        background-color: #000511;      
+        & > .vw-Details{
+            & > .vw-DetailsHeader{                
+                font-weight: 900;
+                background-color: #001533;
+            }
+        } 
+        .vw-NavbarEditorEntry{
+            cursor: pointer;            
+            &:hover{
+                background-color: #8095b3;
+            }
+            &[active]{
+                background-color: #003066;                
+            }
+        } 
     }
     .vw-NavbarWorkbenchSilder{
         grid-column: 2;
         cursor: ew-resize;
-        background-color: #16161d;
+        background-color: #001533;
     }
     .vw-Workbench{
-        grid-column: 3;        
-        background-color: #669900;
+        grid-column: 3;   
+        display: grid;     
+        overflow: auto;
+        grid-template-areas: 'content';
+        background-color: #000511;
+        .vw-WorkbenchContent{
+            display: none;
+            overflow: auto;            
+            &[active]{
+                display: block;
+                grid-area: content;
+            }
+        }
     }    
 }

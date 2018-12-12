@@ -1,3 +1,10 @@
+class TextView extends View{
+    constructor(id, text){
+        super(id,'span',['vw-TextView']);
+        this.innerText = text;        
+    }
+}
+
 class Details extends View {
     constructor(id, title, items = []) {
         super(id, 'details', ['vw-Details']);
@@ -13,6 +20,18 @@ class DetailsHeader extends View {
         this.innerText = title;
     }
 };
+
+class IFrame extends View{
+    constructor(id, src){
+        super(id,'iframe',['vw-IFrame']);
+        this.setAttribute('src',src);
+        this.style.backgroundColor = '#ffffff';
+        this.style.display = 'grid';
+        this.style.border = 'none';
+        this.style.width = '100%';
+        this.style.height = '100%';
+    }
+}
 
 class ImageView extends View {
     constructor(id, src = '') {

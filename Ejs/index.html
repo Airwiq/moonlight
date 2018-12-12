@@ -5,36 +5,39 @@
     <title>Sandbox</title>
     <link rel="stylesheet" href="res/css/main.css">
 
-    <script src="src/ui/basic/View.js"></script>
-    <script src="src/ui/UiMain.js"></script>
+    <script src="src/ctrl/Modules.js"></script>
+    <script src="src/ui/basic/View.js"></script>    
     <script src="src/ui/basic/DomElements.js"></script>
+    <script src="src/ui/basic/ItemViews.js"></script>
+    <script src="src/ui/UiMain.js"></script>
 </head>
 
 <body>
 </body>
 
 <script>
+    var mdl_Mockups = new Module('mdl-mockups',null,'MockUpds',new IFrame('mdl-wb-if','svg-icons.html'),[]);
+    var mdl_Svg = new Module('mdl-svg-icons',null,'SVG-Icons',new IFrame('mdl-wb-if','svg-icons.html'),[]);
+    var mdl_Sandbox = new Module('mdl-sandbox',null,'Sandbox',null,[
+        mdl_Mockups,
+        mdl_Svg
+    ]);    
+</script>
+
+<script>
+    var root = new Module('mdl-root',null,'',[]);
     var app = new AppFrame('ui-main');
     var NavbarMenu = null;
     app.getNavbar().addItems([
-        new Details('nb-open-editors', 'Details', [
-            (function () {
-                let tbl = new Table(null, [
-                    new TableRow([
-                        new TableHead('Head 1'),
-                        new TableHead('Head 2'),
-                    ]),
-                    new TableRow([
-                        new TableCell('a'),
-                        new TableCell('b'),
-                    ])
-                ]);
-                return tbl;
-            }())
-        ]),        
-    ]
-    );
-    document.body.appendChild(app.NODE);    
+
+    ]);
+    
+    document.body.appendChild(app.NODE); 
+
+    //app.openEditor('ed-test-1', 'Document one', new IFrame('mdl-wb-if','svg-icons.html'));   
+    //app.openEditor('ed-test-2', 'Testeditor', new View(null,'div'));  
+    //app.openEditor('ed-test-3', 'Module_Sys', new View(null,'div'));  
+    //app.openEditor('ed-test-1', 'Document one', new IFrame('mdl-wb-if','svg-icons.html'));
 </script>
 
 </html>

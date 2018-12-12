@@ -7,7 +7,9 @@ let win;
 function init() {    
     win = new ELECTRON.BrowserWindow({
         width: 1000,
-        height: 600
+        height: 600,
+       // transparent:true,
+       // frame: false
         //minWidth: 800
     });    
     BACKEND.App.init(ELECTRON,ELECTRON.ipcMain,win);           

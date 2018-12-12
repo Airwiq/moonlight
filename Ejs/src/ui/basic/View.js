@@ -1,4 +1,4 @@
-class BasicElement {
+class BasicView {
     constructor(id, tag, css = []) {
         this._EL = document.createElement(tag);
         this._EL.VIEW = this;
@@ -12,6 +12,9 @@ class BasicElement {
     }
     get NODE() {
         return this._EL;
+    }
+    getViewParent() {
+        return this._EL.parentElement.VIEW;
     }
 
     addEventListener() { return this._EL.addEventListener.apply(this._EL, arguments); }
@@ -320,14 +323,16 @@ class BasicElement {
     get onwheel () {return this._EL.onwheel;}
 };
 
-class View extends BasicElement {
-    constructor(id, tag, css, items = []) {
+class View extends BasicView {
+    constructor(id, tag, css = [], items = []) {
         super(id, tag, css);
         this.views = {};
-        this.items = {};
+        this.items = [];
+        this.refs = {};
         this.setItems(items);
     }
     addItem(item) {
+        this.items.push(item);
         this.appendChild(item.NODE);
     }
     addItems(items) {
@@ -337,6 +342,7 @@ class View extends BasicElement {
     }
     setItems(items) {
         this.innerHTML = '';
+        this.items = [];
         this.addItems(items);
     }
 }
