@@ -5,8 +5,8 @@
     <title>Sandbox</title>
     <link rel="stylesheet" href="res/css/main.css">
 
-    <script src="src/ctrl/Modules.js"></script>
-    <script src="src/ui/basic/View.js"></script>    
+    <script src="src/ui/ctrl/Modules.js"></script>
+    <script src="src/ui/basic/View.js"></script>
     <script src="src/ui/basic/DomElements.js"></script>
     <script src="src/ui/basic/ItemViews.js"></script>
     <script src="src/ui/UiMain.js"></script>
@@ -15,26 +15,33 @@
 <body>
 </body>
 
-<script>
-    var mdl_Mockups = new Module('mdl-mockups',null,'MockUpds',new IFrame('mdl-wb-ifa','ui_modules/blkg-mockup.html'),[]);
-    var mdl_Svg = new Module('mdl-svg-icons',null,'SVG-Icons',new IFrame('mdl-wb-ifb','ui_modules/svg-icons.html'),[]);
-    var mdl_Sandbox = new Module('mdl-sandbox',null,'Sandbox',null,[
+<script>   
+    var mdl_Tests = new Module('mdl-test', null, 'Tests', null, [
+        new Module('mdl-t1', null, 'Level One', null, [
+            new Module('mdl-t1-a1', null, 'Stage 1.1', new TextView(null, 'Huiiii'))
+        ])
+    ]);
+    var mdl_Mockups = new Module('mdl-mockups', null, 'MockUpds', new IFrame('mdl-wb-ifa', 'ui_modules/blkg-mockup.html'), []);
+    var mdl_Svg = new Module('mdl-svg-icons', null, 'SVG-Icons', new IFrame('mdl-wb-ifb', 'ui_modules/svg-icons.html'), []);
+    var mdl_Sandbox = new Module('mdl-sandbox', null, 'Sandbox', null, [
         mdl_Mockups,
-        mdl_Svg
-    ]);    
+        mdl_Svg,
+        mdl_Tests
+    ]);
+
 </script>
 
 <script>
-    var root = new Module('mdl-root',null,'',[]);
+    var root = new Module('mdl-root', null, '', []);
     var app = new AppFrame('ui-main');
     var NavbarMenu = null;
-    app.setModules(mdl_Sandbox);    
-    
-    document.body.appendChild(app.NODE); 
+    app.setModules(mdl_Sandbox);
 
-    app.openModule(mdl_Svg);   
+    document.body.appendChild(app.NODE);
+
+    app.openModule(mdl_Svg);
     app.openModule(mdl_Mockups);
-    
+
     //app.openEditor('ed-test-2', 'Testeditor', new View(null,'div'));  
     //app.openEditor('ed-test-3', 'Module_Sys', new View(null,'div'));  
     //app.openEditor('ed-test-1', 'Document one', new IFrame('mdl-wb-if','svg-icons.html'));

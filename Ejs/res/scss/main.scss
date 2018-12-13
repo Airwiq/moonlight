@@ -93,6 +93,10 @@ html,body{
                 background-color: #001533;
             }
                        
+        }
+        
+        .vw-Details > .vw-Details, .vw-Details > .vw-InfoItem{
+            padding-left: 12px;
         } 
         .vw-NavbarBasicEntry{
             cursor: pointer;            
