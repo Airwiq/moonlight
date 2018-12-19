@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>SVGs</title>    
+    <style>            
+    </style>
+</head>
+
+<body>
+    <h1>IPC-Tests</h1>
+    <pre id=MSG></pre>
+</body>
+
+<script>
+    window.onmessage = function(evt){
+        MSG.innerText += evt.data+'\n';
+    };
+    window.top.postMessage('Send from IFrame','*');
+</script>
+
+</html>

@@ -22,10 +22,13 @@
         ])
     ]);
     var mdl_Mockups = new Module('mdl-mockups', null, 'MockUpds', new IFrame('mdl-wb-ifa', 'ui_modules/blkg-mockup.html'), []);
-    var mdl_Svg = new Module('mdl-svg-icons', null, 'SVG-Icons', new IFrame('mdl-wb-ifb', 'ui_modules/svg-icons.html'), []);
+    var mdl_Svg = new Module('mdl-svg-icons', null, 'SVG-Icons', new IFrame('mdl-wb-ifb', 'ui_modules/svg-icons.html'), []);    
+    var mdl_IPC = new Module('mdl-ipc',null, 'IPC-Test', new IFrame('mdl-ipc-frame','ui_modules/cross-doc.html'));
+
     var mdl_Sandbox = new Module('mdl-sandbox', null, 'Sandbox', null, [
         mdl_Mockups,
         mdl_Svg,
+        mdl_IPC,
         mdl_Tests
     ]);
 
@@ -40,8 +43,16 @@
     document.body.appendChild(app.NODE);
 
     app.openModule(mdl_Svg);
-    app.openModule(mdl_Mockups);
+    //app.openModule(mdl_Mockups);
+    //app.openModule(mdl_IPC);
 
+    
+    window.onmessage = function(evt){
+        var ifr = document.getElementById('mdl-ipc-frame');
+        ifr.contentWindow.postMessage(evt.data,'*');
+        ifr.contentWindow.postMessage('Send via IPC','*');        
+        ifr.contentWindow.document.body.innerHTML += "<b>Created from MainWindow</b>";
+    };
     //app.openEditor('ed-test-2', 'Testeditor', new View(null,'div'));  
     //app.openEditor('ed-test-3', 'Module_Sys', new View(null,'div'));  
     //app.openEditor('ed-test-1', 'Document one', new IFrame('mdl-wb-if','svg-icons.html'));
