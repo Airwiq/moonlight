@@ -4,57 +4,95 @@
 <head>
     <title>SVGs</title>
     <link rel="stylesheet" href="../res/css/main.css">
-    <style>        
-        body{
+    <style>
+        body {
             padding: 30px;
+        }
+        svg:first-child{
+            background-size: 32px 32px;background-size: 64px 64px;
+            
+            background-color: white;
+            background-image: -webkit-linear-gradient(transparent 50%, rgba(128,128,128, .5) 50%, rgba(128,128,128, .5)),
+                            -webkit-linear-gradient(0deg, transparent 50%, rgba(128,128,128, .5) 50%, rgba(128,128,128, .5));
+            background-image: -moz-linear-gradient(transparent 50%, rgba(128,128,128, .5) 50%, rgba(128,128,128, .5)),
+                            -moz-linear-gradient(0deg, transparent 50%, rgba(128,128,128, .5) 50%, rgba(128,128,128, .5));
+            background-image: linear-gradient(transparent 50%, rgba(128,128,128, .5) 50%, rgba(128,128,128, .5)),
+                            linear-gradient(90deg, transparent 50%, rgba(128,128,128, .5) 50%, rgba(128,128,128, .5));
+        }
+        svg {
+            margin-right: 30px;
+            margin-top: 30px;
+            border: 5px dashed #808080;
+            width: 512px;
+            height: 512px;
+        }
+        .sr{
+            stroke: #ff0000;
+        }
+        .sg{
+            stroke: #00ff00;
+        }
+        .lines{
+            
+            stroke-width: 0.25;
+        }        
+        .lines text{
+            font-size: 3px;
+            color: black;
+            fill: black;
+            stroke: none;
+        }
+        .svg_i_s1 {
+            fill: black;
+            fill: rgba(0,0,128,0.2);                        
+            
+            stroke: black;
+            fill-rule: evenodd;
+            stroke-width: .25;
         }
     </style>
 </head>
+<!--
+    <path d="" />
+-->
+<body>
+    <svg>
+        <g transform="scale(8)">
+            <g class="sr lines">
+                <line x1="0" y1="32" x2="64" y2="32"/>                
+                <line x1="32" y1="0" x2="32" y2="64"/>    
+            </g>
+            <g class="sg lines">
+                    
+                    <line x1="0" y1="16" x2="64" y2="16"/>
+                    <line x1="0" y1="48" x2="64" y2="48"/>                                    
+                    <line x1="16" y1="0" x2="16" y2="64"/>  
+                    <line x1="48" y1="0" x2="48" y2="64"/> 
+                    <text x="0" y="7" >8</text>
+                    <text x="0" y="15">16</text>
+                    <text x="0" y="23">24</text>
+                    <text x="0" y="31">32</text>
+                    <text x="0" y="39">40</text>
+                    <text x="0" y="47">48</text>
+                    <text x="0" y="55">56</text>
+                    <text x="0" y="63">64</text>
 
-<body>      
+                    <text y="3" x="8" >8</text>
+                    <text y="3" x="16">16</text>
+                    <text y="3" x="24">24</text>
+                    <text y="3" x="32">32</text>
+                    <text y="3" x="40">40</text>
+                    <text y="3" x="48">48</text>
+                    <text y="3" x="56">56</text>
+                    <text y="3" x="64">64</text>
+                    
+            </g>
+            <g class="svg_i_s1">
+                <path d="M8 8 L32 8 46 8 56 18 56 56 8 56 8 8 M12 12 L32 12 44 12 52 20 52 52 12 52 12 12Z"/>  
+                <path d="M16 52 L16 32 48 32 48 52 16 52 M20 52 L20 36 44 36 44 52 20 52Z"/>
+            </g>
+        </g>
+    </svg>   
 </body>
-
-<script>
-    
-</script>
-<script>
-    var P = null;
-    var svg = document.createElementNS('http://www.w3.org/2000/svg','svg');
-    
-    document.body.appendChild(svg);    
-    var cvs = document.createElementNS('http://www.w3.org/2000/svg','g');
-    
-    function cxDot(x, y) {
-        //<circle cx="16" cy="16" r="12" /> 
-        let c = document.createElementNS('http://www.w3.org/2000/svg','circle');
-        c.setAttribute('cx', x);
-        c.setAttribute('cy', y);
-        c.setAttribute('r', 1);     
-        c.onclick = function(evt){
-           if(P == null){
-               P = `M${x} ${y}`;
-           }else{
-               P += ` L${x} ${y} Z`;
-
-               cvs.innerHTML += `<path style="stroke: black;" d="${P}"/>`;
-               P = null;
-           }
-        }   
-        return c;
-    }
-
-    cvs.setAttribute('id','cvs');
-    cvs.setAttribute('transform','scale(8)');
-    cvs.setAttribute('style',' fill:none; stroke: #808080; stroke-width: 2;');
-    for (let y = 0; y <= 64; y += 8) {
-        for (let x = 0; x <= 64; x += 8) {
-            cvs.appendChild(cxDot(x, y));
-        }
-    }
-    svg.style.width = '512px';
-    svg.style.height = '512px';
-    svg.style.border = '1px solid black';                
-    svg.appendChild(cvs);
-</script>
 
 </html>
