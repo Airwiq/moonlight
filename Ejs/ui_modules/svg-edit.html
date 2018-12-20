@@ -1,0 +1,60 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>SVGs</title>
+    <link rel="stylesheet" href="../res/css/main.css">
+    <style>        
+        body{
+            padding: 30px;
+        }
+    </style>
+</head>
+
+<body>      
+</body>
+
+<script>
+    
+</script>
+<script>
+    var P = null;
+    var svg = document.createElementNS('http://www.w3.org/2000/svg','svg');
+    
+    document.body.appendChild(svg);    
+    var cvs = document.createElementNS('http://www.w3.org/2000/svg','g');
+    
+    function cxDot(x, y) {
+        //<circle cx="16" cy="16" r="12" /> 
+        let c = document.createElementNS('http://www.w3.org/2000/svg','circle');
+        c.setAttribute('cx', x);
+        c.setAttribute('cy', y);
+        c.setAttribute('r', 1);     
+        c.onclick = function(evt){
+           if(P == null){
+               P = `M${x} ${y}`;
+           }else{
+               P += ` L${x} ${y} Z`;
+
+               cvs.innerHTML += `<path style="stroke: black;" d="${P}"/>`;
+               P = null;
+           }
+        }   
+        return c;
+    }
+
+    cvs.setAttribute('id','cvs');
+    cvs.setAttribute('transform','scale(8)');
+    cvs.setAttribute('style',' fill:none; stroke: #808080; stroke-width: 2;');
+    for (let y = 0; y <= 64; y += 8) {
+        for (let x = 0; x <= 64; x += 8) {
+            cvs.appendChild(cxDot(x, y));
+        }
+    }
+    svg.style.width = '512px';
+    svg.style.height = '512px';
+    svg.style.border = '1px solid black';                
+    svg.appendChild(cvs);
+</script>
+
+</html>

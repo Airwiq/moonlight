@@ -1,3 +1,33 @@
+class Module{
+    constructor(id, icon, title, content, submodules = []){
+        this.id = id;
+        this.icon = icon;
+        this.title = title;
+        this.content = content;
+        this.submodules = submodules;
+    }
+    getId(){
+        return this.id;
+    }
+    getIcon(){
+        return this.icon;
+    }
+    getTitle(){
+        return this.title;
+    }
+    getContent(){
+        return this.content;
+    }
+    getSubModules(){
+        return this.submodules;
+    }
+    hasSubModules(){
+        return this.submodules.length > 0;
+    }
+};
+
+
+
 class BasicView {
     constructor(id, tag, css = []) {
         this._EL = document.createElement(tag);
@@ -346,3 +376,293 @@ class View extends BasicView {
         this.addItems(items);
     }
 }
+
+
+class TextView extends View{
+    constructor(id, text){
+        super(id,'span',['vw-TextView']);
+        this.innerText = text;        
+    }
+}
+
+class Details extends View {
+    constructor(id, title, items = []) {
+        super(id, 'details', ['vw-Details']);
+        this.attributes.header = new DetailsHeader(`${id}-header`, title);
+        this.addItem(this.attributes.header);
+        this.addItems(items);
+        this.setAttribute('open', '');
+    }
+};
+class DetailsHeader extends View {
+    constructor(id, title, items = []) {
+        super(id, 'summary', ['vw-DetailsHeader'], items);
+        this.innerText = title;
+    }
+};
+
+class IFrame extends View{
+    constructor(id, src){
+        super(id,'iframe',['vw-IFrame']);
+        this.setAttribute('src',src);
+        this.style.backgroundColor = '#ffffff';
+        this.style.display = 'grid';
+        this.style.border = 'none';
+        this.style.width = '100%';
+        this.style.height = '100%';
+    }
+}
+
+class ImageView extends View {
+    constructor(id, src = '') {
+        super(id, 'img', ['vw-ImageView']);
+    }
+    setImage(src) {
+        this.setAttribute('src', src);
+    }
+}
+class Input extends View {
+    constructor(id, type) {
+        super(id, type, ['vw-Input']);
+    }
+}
+class Table extends View {
+    constructor(id, items = []) {
+        super(id, 'table', ['vw-Table'], items);
+    }
+}
+
+class TableRow extends View {
+    constructor(items = []) {
+        super(null, 'tr', ['vw-TableRow'], items);
+    }
+}
+class TableHead extends View {
+    constructor(text, items = []) {
+        super(null, 'th', ['vw-TableHead'], items);
+        this.innerText = text;
+    }
+}
+class TableCell extends View {
+    constructor(text, items = []) {
+        super(null, 'td', ['vw-TableColumn'], items);
+        this.innerText = text;
+    }
+}
+
+class InfoItem extends View {
+    constructor(id, icon, content) {
+        super(id, 'div', ['vw-InfoItem']);
+        this.setIcon(icon);
+        this.setContent(content);
+    }
+    setIcon(icon) {
+        let ico = null;
+        if (icon == null) {
+            if(this.views.icon != null){
+                this.removeChild(this.views.icon.NODE);
+                this.views.icon = null;
+            }
+        } else {            
+            if (icon instanceof View) {
+                ico = icon;
+            } else {
+                ico = new ImageView(`${this.id}-icon`, icon);
+            }
+            if (this.views.icon != null) {
+                this.replaceChild(ico, this.views.icon.NODE);
+            } else if(this.childElementCount > 0) {
+                this.insertBefore(ico.NODE, this.childNodes[0]);                
+            }
+        }
+        this.items = [];
+        this.views.icon = ico;
+        for(let i = 0,node; node = this.childNodes[i]; i++){
+            this.items[i] = node.VIEW;
+        }
+    }
+    setContent(content) {
+        if(this.views.content != null){
+            this.removeChild(this.views.content.NODE);
+        }
+        if(content == null){
+            
+        }else{
+            let vw = null;
+            if(content instanceof View){
+                vw = content;
+            }else{
+                vw = new TextView(null,content);
+            }
+            this.appendChild(vw.NODE);
+            this.views.content = vw;
+        }
+        this.items = [];
+        for(let i = 0,node; node = this.childNodes[i]; i++){
+            this.items[i] = node.VIEW;
+        }
+    }
+}
+
+class AppFrameView extends View {
+    constructor(frame, id, tag, css, items = []){
+        super(id,tag,css,items);
+        this.appframe = frame;
+    }    
+    getAppFrame(){
+        return this.appframe;
+    }
+};
+class Actionbar extends AppFrameView {
+    constructor(frame, id, items = []) {
+        super(frame, id, 'div', ['vw-Actionbar'], items);
+    }
+};
+class Navbar extends AppFrameView {
+    constructor(frame, id, items = []) {
+        super(frame, id, 'div', ['vw-Navbar']);
+        this.views.editors = new Details(`${id}-open-edtiors`,'Editors');
+        this.addItem(this.getOpenEditors());
+        this.addItems(items);
+    }
+    getOpenEditors(){
+        return this.views.editors;
+    }
+};
+class NavbarEditorEntry extends InfoItem{
+    constructor(id,icon,title){
+        super(id,icon,title);
+        this.classList.add('vw-NavbarEditorEntry');        
+    }
+}
+class NavbarBasicEntry extends InfoItem{
+    constructor(id,icon,title){
+        super(id,icon,title);
+        this.classList.add('vw-NavbarBasicEntry');        
+    }
+}
+class NavbarWorkbenchSlider extends AppFrameView {
+    constructor(frame, id) {
+        super(frame, id, 'div', ['vw-NavbarWorkbenchSilder']);
+        this.setAttribute('draggable', 'true');
+        this.ondragstart = function (evt) {
+            let vw = evt.target.VIEW.getViewParent();
+            vw.getActionbar().ondragover = evt => { evt.preventDefault(); evt.dataTransfer.effectAllowed = "move"; };
+            vw.getNavbar().ondragover = evt => { evt.preventDefault(); evt.dataTransfer.effectAllowed = "move"; };
+            vw.getSlider().ondragover = evt => { evt.preventDefault(); evt.dataTransfer.effectAllowed = "move"; };
+            vw.getWorkbench().ondragover = evt => { evt.preventDefault(); evt.dataTransfer.effectAllowed = "move"; };
+            let cont = document.getElementById(vw.getWorkbench().getAttribute('active-editor'));
+            if(cont != null){
+               // cont.VIEW.ondragover = evt => { evt.preventDefault(); evt.dataTransfer.effectAllowed = "move"; };
+            }
+            
+        };
+        this.ondrag = function (evt) {
+            evt.preventDefault();
+            evt.dataTransfer.effectAllowed = "move";
+            let x = evt.x;
+            if (x >= 200) {                
+                evt.target.VIEW.getAppFrame().style.gridTemplateColumns = `${x}px 5px auto`;
+            }
+
+        };
+    }
+};
+
+class Workbench extends AppFrameView {
+    constructor(frame, id) {
+        super(frame, id, 'div', ['vw-Workbench']);
+    }
+};
+
+class WorkbenchContent extends View{
+    constructor(id,items=[]){
+        super(id, 'div',['vw-WorkbenchContent'],items);
+    }
+}
+
+class AppFrame extends View {
+    constructor(id) {
+        super(id, 'div', ['vw-AppFrame']);
+        this.views.actionbar = new Actionbar(this,'ui-actionbar');
+        this.views.navbar = new Navbar(this,'ui-navbar');
+        this.views.slider = new NavbarWorkbenchSlider(this,'ui-navbarworkbenchslider');
+        this.views.workbench = new Workbench(this,'ui-workbench');
+        this.setItems([
+            this.getActionbar(),
+            this.getNavbar(),
+            this.getSlider(),
+            this.getWorkbench()
+        ]);
+    }
+    getActionbar() {
+        return this.views.actionbar;
+    }
+    getNavbar() {
+        return this.views.navbar;
+    }
+    getSlider() {
+        return this.views.slider;
+    }
+    getWorkbench() {
+        return this.views.workbench;
+    }
+    setModules(){
+        let modules = arguments;
+        this.refs.modules = modules;
+        let self = this;
+        function cmdl(mdl){
+            let itms = [];
+            console.log(mdl);
+            if(mdl.hasSubModules()){
+                for(let i = 0, itm; itm = mdl.getSubModules()[i]; i++){
+                    itms.push(cmdl(itm));
+                }
+                return new Details(mdl.id,mdl.title,itms);
+            }else{
+                let el = new NavbarBasicEntry(`${mdl.id}-module-entry`,mdl.icon,mdl.title);
+                el.ondblclick = ()=>self.openEditor(mdl.id,mdl.title,mdl.content);
+                return el;
+            }
+        }
+        console.log(modules);
+        for(let i = 0, el; el = modules[i]; i++){
+            console.log(modules);
+            this.getNavbar().addItem(cmdl(el));
+        }
+    }
+    openModule(mdl){
+        this.openEditor(mdl.id,mdl.title,mdl.content);
+    }
+    openEditor(id, title, content){
+        let display = document.getElementById(this.getNavbar().getAttribute('active-editor'));
+        let selected = document.getElementById(`${this.getNavbar().getAttribute('active-editor')}-navbar-entry`);      
+        let target = document.getElementById(id);      
+        let entry = document.getElementById(`${id}-navbar-entry`);  
+        if(target == null){
+            target = new WorkbenchContent(id,[content]);  
+            entry = new NavbarEditorEntry(`${id}-navbar-entry`,null,title);    
+            entry.onclick = evt => this.openEditor(id,title);                              
+            this.getNavbar().views.editors.addItem(entry);
+            this.getWorkbench().addItem(target);            
+        }else{
+            target = target.VIEW;
+            entry = entry.VIEW;
+        }
+        if(display != null){
+            display = display.VIEW;
+            
+            display.removeAttribute('active');            
+        }
+        if(selected != null){
+            selected = selected.VIEW;
+            selected.removeAttribute('active');
+        }
+        target.setAttribute('active','true');
+        entry.setAttribute('active','true');
+        this.getNavbar().setAttribute('active-editor',id);                
+        this.getWorkbench().setAttribute('active-editor',id);
+    }
+};
+
+
