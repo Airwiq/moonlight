@@ -70,7 +70,6 @@ html,body{
 .vw-InfoItem{
     display: grid;
     grid-template-rows: auto;
-
 }
 
 .vw-AppFrame{
@@ -91,8 +90,7 @@ html,body{
             & > .vw-DetailsHeader{                
                 font-weight: 900;
                 background-color: #001533;
-            }
-                       
+            }                       
         }
         
         .vw-Details > .vw-Details, .vw-Details > .vw-InfoItem{
